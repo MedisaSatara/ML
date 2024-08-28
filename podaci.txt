@@ -1,0 +1,1001 @@
+studentId	Predmet	ECTS	Ocjene	PolozioDatum	Godina	SkolskaGodina	Semestar	Priznat	DatumUpisa	Spol	ZavrsenaSkolaId	SrednjaSkola	OpstinaRodjenja	GodinaZavrsetka	NacinStudiranja	OptinaPrebivalista	DatumDiplomiranja
+16571	P-142	7	priznato	12/11/2017	1	2018/2019	1	DA	11/7/2018	M	10	Katolički školski centar	Zenica	2007/08	DL	Mostar	
+16572	P-142	7	6	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Bihać	2010/2011	DL	Sarajevo - Centar	
+16570	P-142	7	8	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	13	Tehnička	Banovići	2008/09	DL	Mostar	
+16573	P-142	7	8	10/1/2018	1	2018/2019	1	DA	11/7/2018	Ž	1	Gimnazija	Mostar	2010/2011	DL	Bugojno	
+16576	P-142	7	7	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Mostar	2006/2007	DL	Mostar	
+16580	P-142	7	6	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2012/13	DL	Mostar	
+16581	P-142	7	6	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2008/09	DL	Mostar	
+16582	P-142	7	6	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	3	Mašinska	Doboj	2002/03	DL	Sarajevo-Novo Sarajevo	
+16583	P-142	7	8	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	13	Tehnička	Bugojno	2012/13	DL	Gornji Vakuf - Uskoplje	
+16584	P-142	7	priznato	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	13	Tehnička	Zenica	2010/11	DL	Zenica	
+16579	P-142	7	8	10/1/2018	1	2018/2019	1	DA	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2010/2011	DL	Sarajevo - Novi grad	9/6/2021
+16587	P-142	7	7	10/1/2018	1	2018/2019	1	DA	11/14/2018	M	23	Mješovita srednja škola	Sarajevo - Centar	1999/2000	DL	Sarajevo - Centar	
+16591	P-142	7	priznato	10/1/2018	1	2018/2019	1	DA	11/16/2018	M	1	Gimnazija	Bihać	2011/2012	DL	Bosanska Krupa	
+17589	P-142	7	priznato	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2008/09	DL	Sarajevo-Novo Sarajevo	
+17591	P-142	7	9	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Tuzla	2007/08	DL	Srebrenik	
+17592	P-142	7	7	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2013/14	DL	Hadžići	4/3/2021
+17593	P-142	7	7	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	2	Elektrotehnička	Bihać	2011/12	DL	Bihać	
+17594	P-142	7	10	10/1/2018	1	2018/2019	1	DA	11/20/2018	M	2	Elektrotehnička	Mostar	2008/2009	DL	Sarajevo-Novo Sarajevo	
+17595	P-142	7	priznato	12/11/2017	1	2018/2019	1	DA	11/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2006/2007	DL	Vogošća	
+17596	P-142	7	9	10/1/2018	1	2018/2019	1	DA	11/20/2018	M			Tuzla		DL	Sarajevo-Novo Sarajevo	6/21/2019
+17597	P-142	7	6	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	1	Gimnazija	Bihać	2003/2004	DL	Mostar	
+17598	P-142	7	9	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	6	Ekonomska	Bugojno	2007/08	DL	Vogošća	2/4/2021
+17599	P-142	7	10	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	23	Mješovita srednja škola	Fojnica	1994/95	DL	Ilidža	
+17600	P-142	7	7	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	1	Gimnazija	Jajce	2008/2009	DL	Bugojno	
+16586	P-142	7	7	10/1/2018	1	2018/19	1	DA	11/14/2018	M	2	Elektrotehnička	Sarajevo - Centar	2000/2001	DL	Sarajevo-Novo Sarajevo	
+16499	P-145	6	7	9/18/2020	1	2019/2020	3	NE	7/21/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16462	P-145	6	5		1	2019/2020	3	NE	8/23/2018	M	6	Ekonomska	Ljubovija	2001/2002	DL	Sarajevo	
+16586	P-143	2	6	10/1/2018	1	2018/19	1	DA	11/14/2018	M	2	Elektrotehnička	Sarajevo - Centar	2000/2001	DL	Sarajevo-Novo Sarajevo	
+17600	P-143	2	7	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	1	Gimnazija	Jajce	2008/2009	DL	Bugojno	
+17599	P-143	2	6	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	23	Mješovita srednja škola	Fojnica	1994/95	DL	Ilidža	
+17598	P-143	2	6	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	6	Ekonomska	Bugojno	2007/08	DL	Vogošća	2/4/2021
+17597	P-143	2	7	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	1	Gimnazija	Bihać	2003/2004	DL	Mostar	
+17596	P-143	2	8	10/1/2018	1	2018/2019	1	DA	11/20/2018	M			Tuzla		DL	Sarajevo-Novo Sarajevo	6/21/2019
+17595	P-143	2	priznato	12/11/2017	1	2018/2019	1	DA	11/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2006/2007	DL	Vogošća	
+17594	P-143	2	7	10/1/2018	1	2018/2019	1	DA	11/20/2018	M	2	Elektrotehnička	Mostar	2008/2009	DL	Sarajevo-Novo Sarajevo	
+17593	P-143	2	6	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	2	Elektrotehnička	Bihać	2011/12	DL	Bihać	
+17592	P-143	2	10	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2013/14	DL	Hadžići	4/3/2021
+17591	P-143	2	6	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Tuzla	2007/08	DL	Srebrenik	
+17589	P-143	2	priznato	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2008/09	DL	Sarajevo-Novo Sarajevo	
+16591	P-143	2	9	10/1/2018	1	2018/2019	1	DA	11/16/2018	M	1	Gimnazija	Bihać	2011/2012	DL	Bosanska Krupa	
+16587	P-143	2	5		1	2018/2019	1	NE	11/14/2018	M	23	Mješovita srednja škola	Sarajevo - Centar	1999/2000	DL	Sarajevo - Centar	
+16579	P-143	2	6	10/1/2018	1	2018/2019	1	DA	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2010/2011	DL	Sarajevo - Novi grad	9/6/2021
+16584	P-143	2	7	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	13	Tehnička	Zenica	2010/11	DL	Zenica	
+16583	P-143	2	9	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	13	Tehnička	Bugojno	2012/13	DL	Gornji Vakuf - Uskoplje	
+16582	P-143	2	6	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	3	Mašinska	Doboj	2002/03	DL	Sarajevo-Novo Sarajevo	
+16581	P-143	2	6	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2008/09	DL	Mostar	
+16580	P-143	2	6	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2012/13	DL	Mostar	
+16576	P-143	2	7	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Mostar	2006/2007	DL	Mostar	
+16573	P-143	2	7	10/1/2018	1	2018/2019	1	DA	11/7/2018	Ž	1	Gimnazija	Mostar	2010/2011	DL	Bugojno	
+16570	P-143	2	6	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	13	Tehnička	Banovići	2008/09	DL	Mostar	
+16572	P-143	2	8	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Bihać	2010/2011	DL	Sarajevo - Centar	
+16571	P-143	2	priznato	12/11/2017	1	2018/2019	1	DA	11/7/2018	M	10	Katolički školski centar	Zenica	2007/08	DL	Mostar	
+16509	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Bugojno	2017/18	Redovan samofinansirajući	Jajce	
+16502	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Breza	
+16503	P-220	7	9	1/31/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Banja Luka	1999/2000	DL	Sarajevo - Novi grad	
+16504	P-220	7	5		1	2018/2019	1	NE	7/21/2018	M	4	Medicinska	Zenica	2008/2009	DL	Zenica	
+16505	P-220	7	5		1	2018/2019	1	NE	7/21/2018	M	6	Ekonomska	Travnik	2017/18	DL	Jajce	
+16506	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Travnik	2016/2017	Vanredan	Jajce	
+16507	P-220	7	5		1	2018/2019	1	NE	7/21/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16508	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/21/2018	M	2	Elektrotehnička	Sarajevo-Stari grad	2016/17	Redovan samofinansirajući	Sarajevo-Stari grad	
+16575	P-220	7	5		1	2018/2019	1	NE	11/7/2018	M	1	Gimnazija	Gračanica	2014/15	DL	Doboj	
+16577	P-220	7	7	10/1/2018	1	2018/2019	1	DA	11/8/2018	M	1	Gimnazija	Pale	2014/2015	DL	Sokolac	
+16578	P-220	7	6	9/9/2019	1	2018/2019	1	NE	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2012/2013	DL	Sarajevo - Centar	
+16585	P-220	7	7	1/31/2019	1	2018/2019	1	NE	11/14/2018	M	18	Medresa	Zvornik	2008/2009	DL	Zvornik	
+16588	P-220	7	5		1	2018/2019	1	NE	11/14/2018	M	18	Medresa	Gračanica	2014/2015	DL	Gračanica	
+16589	P-220	7	6	10/1/2018	1	2018/2019	1	DA	11/16/2018	M	2	Elektrotehnička	Sarajevo - Centar	2011/2012	DL	Sarajevo - Novi grad	
+17590	P-220	7	6	2/14/2019	1	2018/2019	1	NE	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2004/05	DL	Sarajevo-Stari grad	
+16510	P-220	7	8	1/31/2019	1	2018/2019	1	NE	9/24/2018	Ž	1	Gimnazija	Kakanj	2017/2018	Redovan samofinansirajući	Kakanj	
+16511	P-220	7	7	8/26/2019	1	2018/2019	1	NE	9/24/2018	M	2	Elektrotehnička	Bugojno	2013/14	DL	Bugojno	
+16516	P-220	7	6	1/31/2019	1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Ilijaš	
+16517	P-220	7	7	8/26/2019	1	2018/2019	1	NE	9/25/2018	Ž	1	Gimnazija	Konjic	2017/2018	DL	Konjic	
+16518	P-220	7	5		1	2018/2019	1	NE	9/24/2018	Ž	1	Gimnazija	Zenica	2015/2016	DL	Zavidovići	
+16519	P-220	7	priznato	1/14/2019	1	2018/2019	1	DA	9/25/2018	Ž	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Sarajevo - Novi grad	7/19/2022
+16520	P-220	7	5		1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2013/2014	Vanredan	Sarajevo - Novi grad	
+16521	P-220	7	6	2/14/2019	1	2018/2019	1	NE	9/25/2018	M	2	Elektrotehnička	Zavidovići	2012/2013	DL	Zavidovići	
+16522	P-220	7	6	9/9/2019	1	2018/2019	1	NE	10/3/2018	Ž	4	Medicinska	Mostar	2017/2018	Vanredan	Mostar	
+16523	P-220	7	5		1	2018/2019	1	NE	9/24/2018	M	6	Ekonomska	Ljubuški	2017/2018	Vanredan	Ljubuški	
+16524	P-220	7	5		1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16525	P-220	7	6	2/14/2019	1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Banja Luka	2009/2010	DL	Ilidža	
+16527	P-220	7	6	1/31/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Ilidža	
+16528	P-220	7	7	2/14/2019	1	2018/2019	1	NE	9/25/2018	M	8	Saobraćajna	Sarajevo - Centar	2014/2015	DL	Ilidža	
+16529	P-220	7	6	2/14/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2016/2017	DL	Ilidža	2/4/2023
+16530	P-220	7	5		1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2009/2010	DL	Sarajevo - Centar	
+16531	P-220	7	6	1/31/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16532	P-220	7	6	2/14/2019	1	2018/2019	1	NE	9/25/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16533	P-220	7	7	8/26/2019	1	2018/2019	1	NE	10/4/2018	M	18	Medresa	Tuzla	2017/2018	DL	Gradačac	
+16534	P-220	7	6	2/14/2019	1	2018/2019	1	NE	9/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16535	P-220	7	7	2/14/2019	1	2018/2019	1	NE	9/24/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Kakanj	9/6/2022
+16536	P-220	7	6	2/14/2019	1	2018/2019	1	NE	9/26/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16537	P-220	7	priznato	4/17/2019	1	2018/2019	1	DA	9/17/2018	M	2	Elektrotehnička	Tuzla	2011/2012	DL	Tuzla	
+16574	P-220	7	6	10/1/2019	1	2020/2021	1	DA	11/7/2018	M	2	Elektrotehnička	Jablanica	2013/2014	DL	Mostar	
+16320	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/17/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16321	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/17/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Ilidža	
+16322	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/17/2018	M	3	Mašinska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16323	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	2/17/2022
+16324	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16325	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16326	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16327	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	5/11/2023
+16328	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16329	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	9/10/2022
+16330	P-220	7	5		1	2018/2019	1	NE	7/17/2018	M	23	Mješovita srednja škola	Travnik	2013/2014	DL	Novi Travnik	
+16331	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/18/2018	M	4	Medicinska	Zenica	2017/2018	DL	Zenica	
+16332	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	6/30/2022
+16333	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Cazin	2017/2018	Redovan samofinansirajući	Cazin	6/30/2022
+16334	P-220	7	6	8/26/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Jablanica	
+16335	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16336	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	2/17/2022
+16337	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16338	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	6	Ekonomska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16339	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/18/2018	Ž	2	Elektrotehnička	Visoko	2017/2018	Redovan samofinansirajući	Visoko	
+16340	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/18/2018	Ž	6	Ekonomska	Sarajevo - Centar	2017/18	DL	Ilidža	
+16341	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	7/13/2023
+16342	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	Vanredan	Ilidža	
+16343	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Gradačac	2017/18	DL	Gradačac	
+16344	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Sjenica	2017/2018	DL	Ilidža	
+16345	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/18/2018	Ž	13	Tehnička	Bugojno	2017/2018	Redovan samofinansirajući	Donji Vakuf	
+16348	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/18/2018	M	13	Tehnička	Travnik	2017/2018	DL	Gornji Vakuf - Uskoplje	
+16349	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/18/2018	M	13	Tehnička	Bugojno	2017/2018	DL	Bugojno	
+16350	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Tuzla	2017/18	DL	Tuzla	
+16351	P-220	7	5		1	2018/2019	1	NE	7/18/2018	Ž	4	Medicinska	Mostar	2017/2018	DL	Mostar	
+16352	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16353	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Konjic	2017/2018	DL	Jablanica	
+16354	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Tuzla	2017/2018	DL	Živinice	
+16355	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Travnik	2017/18	DL	Donji Vakuf	
+16356	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Goražde	2011/2012	Redovan samofinansirajući	Goražde	
+16357	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	13	Tehnička	Goražde	2017/2018	DL	Goražde	
+16358	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/18/2018	Ž	18	Medresa	Zenica	2017/2018	DL	Tuzla	
+16359	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2017/18	Redovan samofinansirajući	Sanski Most	
+16360	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Tuzla	2017/2018	DL	Tuzla	
+16361	P-220	7	6	8/26/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Bugojno	2017/2018	DL	Bugojno	
+16362	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Visoko	2017/2018	DL	Visoko	2/17/2022
+16363	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Ilidža	2017/18	DL	Ilidža	
+16364	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Visoko	6/30/2022
+16365	P-220	7	9	1/31/2019	1	2018/2019	1	NE	7/18/2018	Ž	6	Ekonomska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16366	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/19/2018	M	3	Mašinska	Goražde	2017/18	Vanredan	Goražde	
+16367	P-220	7	5		1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Zenica	2017/2018	DL	Zavidovići	
+16368	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Travnik	2017/2018	DL	Travnik	9/21/2023
+16369	P-220	7	8	2/14/2019	1	2018/2019	1	NE	9/4/2018	M	25	Turističko ugostiteljska	Pale	2017/18	DL	Pale	
+16370	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	2	Elektrotehnička	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16371	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Zenica	2017/2018	Redovan samofinansirajući	Zavidovići	
+16372	P-220	7	5		1	2018/2019	1	NE	7/19/2018	M	13	Tehnička	Sarajevo - Centar	2016/17	Vanredan	Sarajevo - Centar	
+16374	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16375	P-220	7	8	1/31/2019	1	2018/2019	1	NE	9/4/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	
+16376	P-220	7	5		1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Vareš	2017/2018	DL	Vareš	
+16377	P-220	7	5		1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Zvornik	2017/2018	DL	Vareš	
+16378	P-220	7	7	8/26/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Vareš	2017/2018	DL	Vareš	
+16379	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/18/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Visoko	
+16380	P-220	7	5		1	2018/2019	1	NE	9/18/2018	M	6	Ekonomska	Sarajevo - Centar	2017/2018	DL	Vareš	
+16381	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	4	Medicinska	Gračanica	2017/18	DL	Gračanica	
+16382	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	
+16383	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/19/2018	Ž	4	Medicinska	Konjic	2017/2018	DL	Mostar	
+16384	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Tuzla	2017/2018	Redovan samofinansirajući	Tuzla	
+16385	P-220	7	6	1/31/2019	1	2018/2019	1	NE	9/5/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	9/30/2021
+16386	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16387	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16388	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Zenica	2017/18	Redovan samofinansirajući	Zavidovići	
+16389	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Centar	
+16390	P-220	7	5		1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16391	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Bugojno	2017/18	DL	Bugojno	
+16392	P-220	7	9	1/31/2019	1	2018/2019	1	NE	9/5/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	9/6/2022
+16393	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16394	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	9/6/2022
+16395	P-220	7	5		1	2018/2019	1	NE	7/19/2018	M	4	Medicinska	Travnik	2017/2018	DL	Jajce	
+16396	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	
+16398	P-220	7	5		1	2018/2019	1	NE	7/19/2018	Ž	18	Medresa	Zenica	2017/18	DL	Zenica	
+16399	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/19/2018	M	4	Medicinska	Vitez	2017/2018	DL	Vitez	
+16400	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/19/2018	Ž	6	Ekonomska	Sarajevo - Novi grad	2017/18	DL	Sarajevo	
+16401	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2015/16	DL	Mostar	
+16402	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Travnik	2017/18	Redovan samofinansirajući	Gornji Vakuf - Uskoplje	9/6/2022
+16403	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	18	Medresa	Tuzla	2017/2018	Redovan samofinansirajući	Kalesija	
+16404	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16405	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	18	Medresa	Tuzla	2017/2018	Vanredan	Živinice	
+16406	P-220	7	6	9/3/2021	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2016/2017	Vanredan	Sanski Most	
+16407	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2017/18	Vanredan	Sanski Most	
+16408	P-220	7	9	2/14/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Sanski Most	2016/2017	DL	Sanski Most	
+16409	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/19/2018	M	3	Mašinska	Tuzla	2014/15	DL	Lukavac	
+16410	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16412	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	35	Ostalo	Zenica	2013/2014	DL	Travnik	
+16413	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Gornji Vakuf	2014/15	DL	Gornji Vakuf - Uskoplje	
+16414	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Goražde	2014/15	DL	Sarajevo	
+16415	P-220	7	6	1/31/2019	1	2018/2019	1	NE	9/5/2018	M	1	Gimnazija	Bugojno	2017/2018	DL	Bugojno	
+16416	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Sarajevo-Novo Sarajevo	2017/18	Vanredan	Sarajevo	
+16417	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	1/27/2022
+16418	P-220	7	6	8/26/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Sarajevo - Novi grad	
+16419	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Zenica	2017/2018	DL	Zavidovići	11/14/2022
+16420	P-220	7	7	1/31/2019	1	2018/2019	1	NE	9/5/2018	Ž	2	Elektrotehnička	Tuzla	2017/18	DL	Tuzla	
+16421	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Goražde	2017/2018	DL	Goražde	
+16422	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Visoko	2017/2018	DL	Visoko	
+16423	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Mostar	2017/18	Redovan samofinansirajući	Mostar	
+16424	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Visoko	
+16425	P-220	7	9	1/31/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Goražde	2017/18	DL	Goražde	11/22/2021
+16428	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/20/2018	Ž	2	Elektrotehnička	Travnik	2017/2018	Vanredan	Donji Vakuf	
+16429	P-220	7	5		1	2018/2019	1	NE	9/7/2018	M	13	Tehnička	Zenica	2017/18	DL	Zenica	
+16430	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16431	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	18	Medresa	Zenica	2017/2018	DL	Zenica	
+16432	P-220	7	5		1	2018/2019	1	NE	8/24/2018	Ž	2	Elektrotehnička	Mostar	2016/17	DL	Mostar	
+16433	P-220	7	8	2/14/2019	1	2018/2019	1	NE	8/24/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Sarajevo-Stari grad	
+16434	P-220	7	5		1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Tuzla	2000/2001	DL	Tuzla	
+16435	P-220	7	7	8/26/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Mostar	2014/15	DL	Mostar	
+16436	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	18	Medresa	Jajce	2017/2018	DL	Jajce	
+16437	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	25	Turističko ugostiteljska	Mostar	2017/2018	DL	Mostar	
+16438	P-220	7	6	1/31/2019	1	2018/2019	1	NE	8/24/2018	M	10	Katolički školski centar	Split	2013/14	DL	Sarajevo-Stari grad	
+16439	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Velika Kladuša	2017/2018	Redovan samofinansirajući	Sanski Most	
+16440	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16441	P-220	7	6	8/26/2019	1	2018/2019	1	NE	8/24/2018	Ž	4	Medicinska	Sarajevo - Centar	2014/15	Vanredan	Sarajevo - Novi grad	
+16442	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	23	Mješovita srednja škola	Bihać	2017/2018	DL	Bosanska Krupa	
+16443	P-220	7	7	2/14/2019	1	2018/2019	1	NE	8/24/2018	M	1	Gimnazija	Gradačac	2011/12	DL	Gračanica	
+16444	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Centar	
+16445	P-220	7	5		1	2018/2019	1	NE	8/24/2018	M	1	Gimnazija	Zenica	2015/2016	DL	Zenica	
+16446	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	9/6/2022
+16447	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Visoko	2017/2018	DL	Sarajevo - Novi grad	
+16448	P-220	7	6	1/31/2019	1	2018/2019	1	NE	8/24/2018	M	13	Tehnička	Brčko	2017/18	Redovan samofinansirajući	Brčko	
+16449	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16450	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Goražde	2017/2018	DL	Goražde	
+16451	P-220	7	7	9/9/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Zagreb	2017/18	DL	Goražde	
+16452	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Vogošća	
+16453	P-220	7	6	2/14/2019	1	2018/2019	1	NE	8/23/2018	M	13	Tehnička	Goražde	2015/2016	Vanredan	Goražde	
+16454	P-220	7	5		1	2018/2019	1	NE	7/20/2018	M	6	Ekonomska	Goražde	2017/2018	DL	Goražde	
+16455	P-220	7	7	1/31/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2011/12	DL	Sarajevo-Novo Sarajevo	
+16457	P-220	7	priznato	1/14/2019	1	2018/2019	1	DA	8/23/2018	Ž	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Sarajevo-Novo Sarajevo	
+16458	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Tuzla	2017/2018	DL	Tuzla	
+16459	P-220	7	7	2/14/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Zenica	2017/18	DL	Zenica	2/18/2022
+16460	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	23	Mješovita srednja škola	Travnik	2017/2018	Redovan samofinansirajući	Travnik	
+16461	P-220	7	7	1/31/2019	1	2018/2019	1	NE	9/8/2018	M	23	Mješovita srednja škola	Travnik	2017/2018	DL	Travnik	
+16462	P-220	7	6	1/31/2019	1	2018/2019	1	NE	8/23/2018	M	6	Ekonomska	Ljubovija	2001/2002	DL	Sarajevo	
+16463	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Čapljina	
+16464	P-220	7	6	2/14/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Sarajevo-Stari grad	2017/18	DL	Sarajevo-Stari grad	
+16465	P-220	7	6	8/26/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Mostar	2017/2018	Vanredan	Jablanica	
+16466	P-220	7	7	2/14/2019	1	2018/2019	1	NE	9/8/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16467	P-220	7	6	2/14/2019	1	2018/2019	1	NE	8/23/2018	M	2	Elektrotehnička	Bihać	2017/18	DL	Bihać	
+16468	P-220	7	7	1/31/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Bihać	2017/18	Vanredan	Bihać	
+16469	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Bihać	2017/2018	DL	Bosanska Krupa	
+16470	P-220	7	5		1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Vogošća	
+16471	P-220	7	8	2/14/2019	1	2018/2019	1	NE	8/23/2018	M	18	Medresa	Bihać	2017/18	Redovan samofinansirajući	Bihać	
+16472	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo-Novo Sarajevo	
+16473	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2015/2016	DL	Sarajevo-Novo Sarajevo	
+16474	P-220	7	8	1/31/2019	1	2018/2019	1	NE	8/23/2018	Ž	1	Gimnazija	Tuzla	2017/2018	Vanredan	Lukavac	
+16475	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/21/2018	M	13	Tehnička	Zavidovići	2015/2016	DL	Sarajevo	
+16476	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/20/2018	Ž	13	Tehnička	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo - Novi grad	
+16478	P-220	7	5		1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Konjic	2017/2018	DL	Konjic	
+16479	P-220	7	5		1	2018/2019	1	NE	9/8/2018	M	25	Turističko ugostiteljska	Mostar	2017/18	DL	Jablanica	
+16480	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	35	Ostalo	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo - Centar	
+16481	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	13	Tehnička	Travnik	2017/2018	DL	Bugojno	
+16482	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Mostar	2017/18	DL	Mostar	
+16483	P-220	7	8	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	13	Tehnička	Travnik	2017/2018	DL	Fojnica	
+16485	P-220	7	5		1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Tuzla	2016/17	DL	Tuzla	
+16486	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/20/2018	Ž	35	Ostalo	Sarajevo - Centar	2017/2018	Redovan samofinansirajući	Ilijaš	9/22/2022
+16487	P-220	7	5		1	2018/2019	1	NE	9/8/2018	M	4	Medicinska	Mostar	2015/2016	DL	Mostar	
+16488	P-220	7	7	2/14/2019	1	2018/2019	1	NE	7/20/2018	M	35	Ostalo	Vareš	2017/2018	DL	Ilijaš	
+16489	P-220	7	7	1/31/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2014/2015	DL	Sarajevo - Novi grad	
+16490	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	Vanredan	Sarajevo - Novi grad	
+16491	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Travnik	2017/2018	DL	Travnik	
+16494	P-220	7	6	2/5/2021	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Goražde	2017/2018	DL	Goražde	
+16495	P-220	7	6	1/31/2019	1	2018/2019	1	NE	7/21/2018	M	20	Grafička	Rogatica	2003/04	DL	Sarajevo-Novo Sarajevo	
+16496	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/21/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo-Stari grad	
+16497	P-220	7	7	6/26/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Tešanj	2017/2018	DL	Doboj	
+16498	P-220	7	6	2/14/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Vogošća	2017/18	DL	Vogošća	
+16499	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16500	P-220	7	5		1	2018/2019	1	NE	7/21/2018	M	20	Grafička	Sarajevo - Centar	2017/18	DL	Sarajevo - Novi grad	
+16501	P-220	7	8	1/31/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Travnik	2017/2018	Redovan samofinansirajući	Jajce	
+17591	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/19/2018	M	1	Gimnazija	Tuzla	2007/08	DL	Srebrenik	
+17592	P-104	7	8	10/1/2018	1	2018/2019	2	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2013/14	DL	Hadžići	4/3/2021
+17593	P-104	7	8	10/1/2018	1	2018/2019	2	DA	11/19/2018	M	2	Elektrotehnička	Bihać	2011/12	DL	Bihać	
+17595	P-104	7	priznato	12/11/2017	1	2018/2019	2	DA	11/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2006/2007	DL	Vogošća	
+17594	P-104	7	10	10/1/2018	1	2018/2019	2	DA	11/20/2018	M	2	Elektrotehnička	Mostar	2008/2009	DL	Sarajevo-Novo Sarajevo	
+17596	P-104	7	10	10/1/2018	1	2018/2019	2	DA	11/20/2018	M			Tuzla		DL	Sarajevo-Novo Sarajevo	6/21/2019
+17597	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/23/2018	M	1	Gimnazija	Bihać	2003/2004	DL	Mostar	
+17598	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/23/2018	M	6	Ekonomska	Bugojno	2007/08	DL	Vogošća	2/4/2021
+17599	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/23/2018	M	23	Mješovita srednja škola	Fojnica	1994/95	DL	Ilidža	
+17600	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/23/2018	M	1	Gimnazija	Jajce	2008/2009	DL	Bugojno	
+16591	P-104	7	9	10/1/2018	1	2018/2019	2	DA	11/16/2018	M	1	Gimnazija	Bihać	2011/2012	DL	Bosanska Krupa	
+17589	P-104	7	7	10/1/2018	1	2018/2019	2	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2008/09	DL	Sarajevo-Novo Sarajevo	
+16579	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2010/2011	DL	Sarajevo - Novi grad	9/6/2021
+16587	P-104	7	7	10/1/2018	1	2018/2019	2	DA	11/14/2018	M	23	Mješovita srednja škola	Sarajevo - Centar	1999/2000	DL	Sarajevo - Centar	
+16586	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/14/2018	M	2	Elektrotehnička	Sarajevo - Centar	2000/2001	DL	Sarajevo-Novo Sarajevo	
+16580	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2012/13	DL	Mostar	
+16581	P-104	7	7	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2008/09	DL	Mostar	
+16582	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	3	Mašinska	Doboj	2002/03	DL	Sarajevo-Novo Sarajevo	
+16583	P-104	7	9	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	13	Tehnička	Bugojno	2012/13	DL	Gornji Vakuf - Uskoplje	
+16584	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	13	Tehnička	Zenica	2010/11	DL	Zenica	
+16576	P-104	7	8	10/1/2018	1	2018/2019	2	DA	11/7/2018	M	1	Gimnazija	Mostar	2006/2007	DL	Mostar	
+16570	P-104	7	8	10/1/2018	1	2018/2019	2	DA	11/7/2018	M	13	Tehnička	Banovići	2008/09	DL	Mostar	
+16573	P-104	7	8	10/1/2018	1	2018/2019	2	DA	11/7/2018	Ž	1	Gimnazija	Mostar	2010/2011	DL	Bugojno	
+16571	P-104	7	priznato	12/11/2017	1	2018/2019	2	DA	11/7/2018	M	10	Katolički školski centar	Zenica	2007/08	DL	Mostar	
+16572	P-104	7	6	10/1/2018	1	2018/2019	2	DA	11/7/2018	M	1	Gimnazija	Bihać	2010/2011	DL	Sarajevo - Centar	
+16509	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Bugojno	2017/18	Redovan samofinansirajući	Jajce	
+16508	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	2	Elektrotehnička	Sarajevo-Stari grad	2016/17	Redovan samofinansirajući	Sarajevo-Stari grad	
+16506	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Travnik	2016/2017	Vanredan	Jajce	
+16507	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16505	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	6	Ekonomska	Travnik	2017/18	DL	Jajce	
+16504	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	4	Medicinska	Zenica	2008/2009	DL	Zenica	
+16503	P-246	4	priznato	1/14/2019	1	2018/2019	1	DA	7/21/2018	M	1	Gimnazija	Banja Luka	1999/2000	DL	Sarajevo - Novi grad	
+16575	P-246	4	6	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Gračanica	2014/15	DL	Doboj	
+16578	P-246	4	9	2/5/2019	1	2018/2019	1	NE	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2012/2013	DL	Sarajevo - Centar	
+16577	P-246	4	9	10/1/2018	1	2018/2019	1	DA	11/8/2018	M	1	Gimnazija	Pale	2014/2015	DL	Sokolac	
+16585	P-246	4	7	1/22/2019	1	2018/2019	1	NE	11/14/2018	M	18	Medresa	Zvornik	2008/2009	DL	Zvornik	
+16589	P-246	4	8	10/1/2018	1	2018/2019	1	DA	11/16/2018	M	2	Elektrotehnička	Sarajevo - Centar	2011/2012	DL	Sarajevo - Novi grad	
+16588	P-246	4	5		1	2018/2019	1	NE	11/14/2018	M	18	Medresa	Gračanica	2014/2015	DL	Gračanica	
+17590	P-246	4	6	1/22/2019	1	2018/2019	1	NE	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2004/05	DL	Sarajevo-Stari grad	
+16537	P-246	4	5		1	2018/2019	1	NE	9/17/2018	M	2	Elektrotehnička	Tuzla	2011/2012	DL	Tuzla	
+16536	P-246	4	8	1/22/2019	1	2018/2019	1	NE	9/26/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16534	P-246	4	9	2/5/2019	1	2018/2019	1	NE	9/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16535	P-246	4	7	1/22/2019	1	2018/2019	1	NE	9/24/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Kakanj	9/6/2022
+16533	P-246	4	6	1/22/2019	1	2018/2019	1	NE	10/4/2018	M	18	Medresa	Tuzla	2017/2018	DL	Gradačac	
+16532	P-246	4	6	8/27/2019	1	2018/2019	1	NE	9/25/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16531	P-246	4	7	1/22/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16530	P-246	4	5		1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2009/2010	DL	Sarajevo - Centar	
+16529	P-246	4	8	1/22/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2016/2017	DL	Ilidža	2/4/2023
+16528	P-246	4	7	2/5/2019	1	2018/2019	1	NE	9/25/2018	M	8	Saobraćajna	Sarajevo - Centar	2014/2015	DL	Ilidža	
+16527	P-246	4	8	1/22/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Ilidža	
+16525	P-246	4	9	8/27/2019	1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Banja Luka	2009/2010	DL	Ilidža	
+16524	P-246	4	5		1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16523	P-246	4	5		1	2018/2019	1	NE	9/24/2018	M	6	Ekonomska	Ljubuški	2017/2018	Vanredan	Ljubuški	
+16521	P-246	4	5		1	2018/2019	1	NE	9/25/2018	M	2	Elektrotehnička	Zavidovići	2012/2013	DL	Zavidovići	
+16522	P-246	4	6	2/5/2019	1	2018/2019	1	NE	10/3/2018	Ž	4	Medicinska	Mostar	2017/2018	Vanredan	Mostar	
+16520	P-246	4	7	1/22/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2013/2014	Vanredan	Sarajevo - Novi grad	
+16519	P-246	4	7	1/22/2019	1	2018/2019	1	NE	9/25/2018	Ž	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Sarajevo - Novi grad	7/19/2022
+16518	P-246	4	8	2/5/2019	1	2018/2019	1	NE	9/24/2018	Ž	1	Gimnazija	Zenica	2015/2016	DL	Zavidovići	
+16516	P-246	4	9	1/22/2019	1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Ilijaš	
+16517	P-246	4	7	2/5/2019	1	2018/2019	1	NE	9/25/2018	Ž	1	Gimnazija	Konjic	2017/2018	DL	Konjic	
+16511	P-246	4	7	1/22/2019	1	2018/2019	1	NE	9/24/2018	M	2	Elektrotehnička	Bugojno	2013/14	DL	Bugojno	
+16510	P-246	4	9	1/22/2019	1	2018/2019	1	NE	9/24/2018	Ž	1	Gimnazija	Kakanj	2017/2018	Redovan samofinansirajući	Kakanj	
+16502	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Breza	
+16501	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Travnik	2017/2018	Redovan samofinansirajući	Jajce	
+16500	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	20	Grafička	Sarajevo - Centar	2017/18	DL	Sarajevo - Novi grad	
+16499	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16498	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Vogošća	2017/18	DL	Vogošća	
+16497	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Tešanj	2017/2018	DL	Doboj	
+16496	P-246	4	8	2/5/2019	1	2018/2019	1	NE	7/21/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo-Stari grad	
+16494	P-246	4	6	8/27/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Goražde	2017/2018	DL	Goražde	
+16495	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	20	Grafička	Rogatica	2003/04	DL	Sarajevo-Novo Sarajevo	
+16491	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Travnik	2017/2018	DL	Travnik	
+16490	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	Vanredan	Sarajevo - Novi grad	
+16489	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2014/2015	DL	Sarajevo - Novi grad	
+16488	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	35	Ostalo	Vareš	2017/2018	DL	Ilijaš	
+16487	P-246	4	8	1/22/2019	1	2018/2019	1	NE	9/8/2018	M	4	Medicinska	Mostar	2015/2016	DL	Mostar	
+16485	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Tuzla	2016/17	DL	Tuzla	
+16486	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	Ž	35	Ostalo	Sarajevo - Centar	2017/2018	Redovan samofinansirajući	Ilijaš	9/22/2022
+16483	P-246	4	6	2/5/2019	1	2018/2019	1	NE	7/20/2018	M	13	Tehnička	Travnik	2017/2018	DL	Fojnica	
+16482	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Mostar	2017/18	DL	Mostar	
+16481	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	13	Tehnička	Travnik	2017/2018	DL	Bugojno	
+16479	P-246	4	6	1/22/2019	1	2018/2019	1	NE	9/8/2018	M	25	Turističko ugostiteljska	Mostar	2017/18	DL	Jablanica	
+16476	P-246	4	6	2/5/2019	1	2018/2019	1	NE	7/20/2018	Ž	13	Tehnička	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo - Novi grad	
+16478	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Konjic	2017/2018	DL	Konjic	
+16475	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	13	Tehnička	Zavidovići	2015/2016	DL	Sarajevo	
+16474	P-246	4	9	1/22/2019	1	2018/2019	1	NE	8/23/2018	Ž	1	Gimnazija	Tuzla	2017/2018	Vanredan	Lukavac	
+16473	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2015/2016	DL	Sarajevo-Novo Sarajevo	
+16472	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo-Novo Sarajevo	
+16471	P-246	4	7	1/22/2019	1	2018/2019	1	NE	8/23/2018	M	18	Medresa	Bihać	2017/18	Redovan samofinansirajući	Bihać	
+16470	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Vogošća	
+16469	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Bihać	2017/2018	DL	Bosanska Krupa	
+16468	P-246	4	9	1/22/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Bihać	2017/18	Vanredan	Bihać	
+16467	P-246	4	9	1/22/2019	1	2018/2019	1	NE	8/23/2018	M	2	Elektrotehnička	Bihać	2017/18	DL	Bihać	
+16466	P-246	4	8	1/22/2019	1	2018/2019	1	NE	9/8/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16465	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Mostar	2017/2018	Vanredan	Jablanica	
+16464	P-246	4	8	1/22/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Sarajevo-Stari grad	2017/18	DL	Sarajevo-Stari grad	
+16462	P-246	4	8	1/22/2019	1	2018/2019	1	NE	8/23/2018	M	6	Ekonomska	Ljubovija	2001/2002	DL	Sarajevo	
+16463	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Čapljina	
+16461	P-246	4	8	1/22/2019	1	2018/2019	1	NE	9/8/2018	M	23	Mješovita srednja škola	Travnik	2017/2018	DL	Travnik	
+16460	P-246	4	6	2/5/2019	1	2018/2019	1	NE	7/20/2018	M	23	Mješovita srednja škola	Travnik	2017/2018	Redovan samofinansirajući	Travnik	
+16459	P-246	4	7	2/5/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Zenica	2017/18	DL	Zenica	2/18/2022
+16458	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Tuzla	2017/2018	DL	Tuzla	
+16457	P-246	4	6	1/22/2019	1	2018/2019	1	NE	8/23/2018	Ž	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Sarajevo-Novo Sarajevo	
+16455	P-246	4	8	1/22/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2011/12	DL	Sarajevo-Novo Sarajevo	
+16454	P-246	4	5		1	2018/2019	1	NE	7/20/2018	M	6	Ekonomska	Goražde	2017/2018	DL	Goražde	
+16453	P-246	4	6	1/22/2019	1	2018/2019	1	NE	8/23/2018	M	13	Tehnička	Goražde	2015/2016	Vanredan	Goražde	
+16452	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Vogošća	
+16451	P-246	4	9	1/22/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Zagreb	2017/18	DL	Goražde	
+16449	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16450	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Goražde	2017/2018	DL	Goražde	
+16448	P-246	4	8	1/22/2019	1	2018/2019	1	NE	8/24/2018	M	13	Tehnička	Brčko	2017/18	Redovan samofinansirajući	Brčko	
+16447	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Visoko	2017/2018	DL	Sarajevo - Novi grad	
+16446	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	9/6/2022
+16445	P-246	4	5		1	2018/2019	1	NE	8/24/2018	M	1	Gimnazija	Zenica	2015/2016	DL	Zenica	
+16444	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Centar	
+16443	P-246	4	8	1/22/2019	1	2018/2019	1	NE	8/24/2018	M	1	Gimnazija	Gradačac	2011/12	DL	Gračanica	
+16442	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	23	Mješovita srednja škola	Bihać	2017/2018	DL	Bosanska Krupa	
+16441	P-246	4	6	2/5/2019	1	2018/2019	1	NE	8/24/2018	Ž	4	Medicinska	Sarajevo - Centar	2014/15	Vanredan	Sarajevo - Novi grad	
+16440	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16439	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Velika Kladuša	2017/2018	Redovan samofinansirajući	Sanski Most	
+16437	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	25	Turističko ugostiteljska	Mostar	2017/2018	DL	Mostar	
+16438	P-246	4	8	1/22/2019	1	2018/2019	1	NE	8/24/2018	M	10	Katolički školski centar	Split	2013/14	DL	Sarajevo-Stari grad	
+16436	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	18	Medresa	Jajce	2017/2018	DL	Jajce	
+16435	P-246	4	7	9/10/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Mostar	2014/15	DL	Mostar	
+16434	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Tuzla	2000/2001	DL	Tuzla	
+16432	P-246	4	6	2/5/2019	1	2018/2019	1	NE	8/24/2018	Ž	2	Elektrotehnička	Mostar	2016/17	DL	Mostar	
+16433	P-246	4	9	1/22/2019	1	2018/2019	1	NE	8/24/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Sarajevo-Stari grad	
+16431	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	18	Medresa	Zenica	2017/2018	DL	Zenica	
+16430	P-246	4	5		1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16429	P-246	4	5		1	2018/2019	1	NE	9/7/2018	M	13	Tehnička	Zenica	2017/18	DL	Zenica	
+16428	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/20/2018	Ž	2	Elektrotehnička	Travnik	2017/2018	Vanredan	Donji Vakuf	
+16425	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Goražde	2017/18	DL	Goražde	11/22/2021
+16424	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Visoko	
+16423	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Mostar	2017/18	Redovan samofinansirajući	Mostar	
+16422	P-246	4	8	2/5/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Visoko	2017/2018	DL	Visoko	
+16421	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Goražde	2017/2018	DL	Goražde	
+16420	P-246	4	10	1/22/2019	1	2018/2019	1	NE	9/5/2018	Ž	2	Elektrotehnička	Tuzla	2017/18	DL	Tuzla	
+16419	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Zenica	2017/2018	DL	Zavidovići	11/14/2022
+16418	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Sarajevo - Novi grad	
+16417	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	1/27/2022
+16416	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Sarajevo-Novo Sarajevo	2017/18	Vanredan	Sarajevo	
+16415	P-246	4	7	1/22/2019	1	2018/2019	1	NE	9/5/2018	M	1	Gimnazija	Bugojno	2017/2018	DL	Bugojno	
+16414	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Goražde	2014/15	DL	Sarajevo	
+16413	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Gornji Vakuf	2014/15	DL	Gornji Vakuf - Uskoplje	
+16410	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16412	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/20/2018	M	35	Ostalo	Zenica	2013/2014	DL	Travnik	
+16409	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	3	Mašinska	Tuzla	2014/15	DL	Lukavac	
+16408	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Sanski Most	2016/2017	DL	Sanski Most	
+16407	P-246	4	6	2/5/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2017/18	Vanredan	Sanski Most	
+16406	P-246	4	7	2/5/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2016/2017	Vanredan	Sanski Most	
+16405	P-246	4	6	8/27/2019	1	2018/2019	1	NE	7/19/2018	M	18	Medresa	Tuzla	2017/2018	Vanredan	Živinice	
+16404	P-246	4	10	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16403	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	18	Medresa	Tuzla	2017/2018	Redovan samofinansirajući	Kalesija	
+16402	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Travnik	2017/18	Redovan samofinansirajući	Gornji Vakuf - Uskoplje	9/6/2022
+16401	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2015/16	DL	Mostar	
+16400	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/19/2018	Ž	6	Ekonomska	Sarajevo - Novi grad	2017/18	DL	Sarajevo	
+16399	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	4	Medicinska	Vitez	2017/2018	DL	Vitez	
+16398	P-246	4	5		1	2018/2019	1	NE	7/19/2018	Ž	18	Medresa	Zenica	2017/18	DL	Zenica	
+16395	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	4	Medicinska	Travnik	2017/2018	DL	Jajce	
+16396	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	
+16394	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	9/6/2022
+16393	P-246	4	6	2/5/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16392	P-246	4	9	1/22/2019	1	2018/2019	1	NE	9/5/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	9/6/2022
+16390	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16391	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Bugojno	2017/18	DL	Bugojno	
+16389	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Centar	
+16388	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Zenica	2017/18	Redovan samofinansirajući	Zavidovići	
+16387	P-246	4	7	2/5/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16386	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16385	P-246	4	7	1/22/2019	1	2018/2019	1	NE	9/5/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	9/30/2021
+16384	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Tuzla	2017/2018	Redovan samofinansirajući	Tuzla	
+16383	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/19/2018	Ž	4	Medicinska	Konjic	2017/2018	DL	Mostar	
+16382	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	
+16381	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	4	Medicinska	Gračanica	2017/18	DL	Gračanica	
+16380	P-246	4	5		1	2018/2019	1	NE	9/18/2018	M	6	Ekonomska	Sarajevo - Centar	2017/2018	DL	Vareš	
+16379	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Visoko	
+16378	P-246	4	6	8/27/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Vareš	2017/2018	DL	Vareš	
+16377	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Zvornik	2017/2018	DL	Vareš	
+16376	P-246	4	6	2/5/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Vareš	2017/2018	DL	Vareš	
+16375	P-246	4	7	1/22/2019	1	2018/2019	1	NE	9/4/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	
+16374	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16372	P-246	4	6	2/5/2019	1	2018/2019	1	NE	7/19/2018	M	13	Tehnička	Sarajevo - Centar	2016/17	Vanredan	Sarajevo - Centar	
+16371	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Zenica	2017/2018	Redovan samofinansirajući	Zavidovići	
+16370	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	2	Elektrotehnička	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16369	P-246	4	8	1/22/2019	1	2018/2019	1	NE	9/4/2018	M	25	Turističko ugostiteljska	Pale	2017/18	DL	Pale	
+16368	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Travnik	2017/2018	DL	Travnik	9/21/2023
+16367	P-246	4	5		1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Zenica	2017/2018	DL	Zavidovići	
+16366	P-246	4	8	2/5/2019	1	2018/2019	1	NE	7/19/2018	M	3	Mašinska	Goražde	2017/18	Vanredan	Goražde	
+16365	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	6	Ekonomska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16364	P-246	4	10	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Visoko	6/30/2022
+16363	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Ilidža	2017/18	DL	Ilidža	
+16362	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Visoko	2017/2018	DL	Visoko	2/17/2022
+16361	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Bugojno	2017/2018	DL	Bugojno	
+16360	P-246	4	8	2/5/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Tuzla	2017/2018	DL	Tuzla	
+16359	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2017/18	Redovan samofinansirajući	Sanski Most	
+16358	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	18	Medresa	Zenica	2017/2018	DL	Tuzla	
+16357	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	13	Tehnička	Goražde	2017/2018	DL	Goražde	
+16356	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Goražde	2011/2012	Redovan samofinansirajući	Goražde	
+16355	P-246	4	6	9/10/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Travnik	2017/18	DL	Donji Vakuf	
+16354	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Tuzla	2017/2018	DL	Živinice	
+16353	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Konjic	2017/2018	DL	Jablanica	
+16352	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16351	P-246	4	5		1	2018/2019	1	NE	7/18/2018	Ž	4	Medicinska	Mostar	2017/2018	DL	Mostar	
+16350	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Tuzla	2017/18	DL	Tuzla	
+16349	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	13	Tehnička	Bugojno	2017/2018	DL	Bugojno	
+16348	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	13	Tehnička	Travnik	2017/2018	DL	Gornji Vakuf - Uskoplje	
+16345	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	13	Tehnička	Bugojno	2017/2018	Redovan samofinansirajući	Donji Vakuf	
+16344	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Sjenica	2017/2018	DL	Ilidža	
+16343	P-246	4	10	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Gradačac	2017/18	DL	Gradačac	
+16342	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	Vanredan	Ilidža	
+16341	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	7/13/2023
+16340	P-246	4	6	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	6	Ekonomska	Sarajevo - Centar	2017/18	DL	Ilidža	
+16339	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	2	Elektrotehnička	Visoko	2017/2018	Redovan samofinansirajući	Visoko	
+16338	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	6	Ekonomska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16337	P-246	4	10	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16336	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	2/17/2022
+16335	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16334	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Jablanica	
+16333	P-246	4	10	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Cazin	2017/2018	Redovan samofinansirajući	Cazin	6/30/2022
+16331	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	4	Medicinska	Zenica	2017/2018	DL	Zenica	
+16332	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/18/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	6/30/2022
+16330	P-246	4	5		1	2018/2019	1	NE	7/17/2018	M	23	Mješovita srednja škola	Travnik	2013/2014	DL	Novi Travnik	
+16329	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	9/10/2022
+16328	P-246	4	10	1/22/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16327	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	5/11/2023
+16326	P-246	4	10	1/22/2019	1	2018/2019	1	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16324	P-246	4	10	1/22/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16325	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16323	P-246	4	7	1/22/2019	1	2018/2019	1	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	2/17/2022
+16322	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/17/2018	M	3	Mašinska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16321	P-246	4	9	1/22/2019	1	2018/2019	1	NE	7/17/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Ilidža	
+16320	P-246	4	8	1/22/2019	1	2018/2019	1	NE	7/17/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16574	P-246	4	9	10/1/2019	1	2020/2021	1	DA	11/7/2018	M	2	Elektrotehnička	Jablanica	2013/2014	DL	Mostar	
+16500	P-8	4	5		1	2019/2020	1	NE	7/21/2018	M	20	Grafička	Sarajevo - Centar	2017/18	DL	Sarajevo - Novi grad	
+16458	P-8	4	5		1	2019/2020	1	NE	7/20/2018	M	2	Elektrotehnička	Tuzla	2017/2018	DL	Tuzla	
+16412	P-8	4	5		1	2019/2020	1	NE	7/20/2018	M	35	Ostalo	Zenica	2013/2014	DL	Travnik	
+16536	P-8	4	5		1	2019/2020	1	NE	9/26/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16523	P-8	4	5		1	2019/2020	1	NE	9/24/2018	M	6	Ekonomska	Ljubuški	2017/2018	Vanredan	Ljubuški	
+16393	P-8	4	5		1	2019/2020	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16518	P-8	4	5		1	2019/2020	1	NE	9/24/2018	Ž	1	Gimnazija	Zenica	2015/2016	DL	Zavidovići	
+16507	P-8	4	5		1	2019/2020	1	NE	7/21/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16353	P-8	4	5		1	2019/2020	1	NE	7/18/2018	Ž	1	Gimnazija	Konjic	2017/2018	DL	Jablanica	
+16415	P-8	4	5		1	2019/2020	1	NE	9/5/2018	M	1	Gimnazija	Bugojno	2017/2018	DL	Bugojno	
+17591	P-8	3	8	10/1/2018	1	2018/2019	2	DA	11/19/2018	M	1	Gimnazija	Tuzla	2007/08	DL	Srebrenik	
+17592	P-8	3	9	10/1/2018	1	2018/2019	2	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2013/14	DL	Hadžići	4/3/2021
+17594	P-8	3	10	10/1/2018	1	2018/2019	2	DA	11/20/2018	M	2	Elektrotehnička	Mostar	2008/2009	DL	Sarajevo-Novo Sarajevo	
+17595	P-8	3	priznato	12/11/2017	1	2018/2019	2	DA	11/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2006/2007	DL	Vogošća	
+17593	P-8	3	9	10/1/2018	1	2018/2019	2	DA	11/19/2018	M	2	Elektrotehnička	Bihać	2011/12	DL	Bihać	
+17599	P-8	3	8	10/1/2018	1	2018/2019	2	DA	11/23/2018	M	23	Mješovita srednja škola	Fojnica	1994/95	DL	Ilidža	
+17600	P-8	3	8	10/1/2018	1	2018/2019	2	DA	11/23/2018	M	1	Gimnazija	Jajce	2008/2009	DL	Bugojno	
+17598	P-8	3	8	10/1/2018	1	2018/2019	2	DA	11/23/2018	M	6	Ekonomska	Bugojno	2007/08	DL	Vogošća	2/4/2021
+17597	P-8	3	6	10/1/2018	1	2018/2019	2	DA	11/23/2018	M	1	Gimnazija	Bihać	2003/2004	DL	Mostar	
+17596	P-8	3	10	10/1/2018	1	2018/2019	2	DA	11/20/2018	M			Tuzla		DL	Sarajevo-Novo Sarajevo	6/21/2019
+16390	P-8	4	5		1	2019/2020	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16495	P-8	4	5		1	2019/2020	1	NE	7/21/2018	M	20	Grafička	Rogatica	2003/04	DL	Sarajevo-Novo Sarajevo	
+16380	P-8	4	5		1	2019/2020	1	NE	9/18/2018	M	6	Ekonomska	Sarajevo - Centar	2017/2018	DL	Vareš	
+17589	P-8	3	priznato	10/1/2018	1	2018/2019	2	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2008/09	DL	Sarajevo-Novo Sarajevo	
+16591	P-8	3	priznato	10/1/2018	1	2018/2019	2	DA	11/16/2018	M	1	Gimnazija	Bihać	2011/2012	DL	Bosanska Krupa	
+16586	P-8	3	8	10/1/2018	1	2018/2019	2	DA	11/14/2018	M	2	Elektrotehnička	Sarajevo - Centar	2000/2001	DL	Sarajevo-Novo Sarajevo	
+16587	P-8	3	6	10/1/2018	1	2018/2019	2	DA	11/14/2018	M	23	Mješovita srednja škola	Sarajevo - Centar	1999/2000	DL	Sarajevo - Centar	
+16584	P-8	3	priznato	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	13	Tehnička	Zenica	2010/11	DL	Zenica	
+16579	P-8	3	10	10/1/2018	1	2018/2019	2	DA	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2010/2011	DL	Sarajevo - Novi grad	9/6/2021
+16583	P-8	3	8	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	13	Tehnička	Bugojno	2012/13	DL	Gornji Vakuf - Uskoplje	
+16582	P-8	3	6	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	3	Mašinska	Doboj	2002/03	DL	Sarajevo-Novo Sarajevo	
+16581	P-8	3	7	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2008/09	DL	Mostar	
+16580	P-8	3	10	10/1/2018	1	2018/2019	2	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2012/13	DL	Mostar	
+16576	P-8	3	10	10/1/2018	1	2018/2019	2	DA	11/7/2018	M	1	Gimnazija	Mostar	2006/2007	DL	Mostar	
+16573	P-8	3	8	10/1/2018	1	2018/2019	2	DA	11/7/2018	Ž	1	Gimnazija	Mostar	2010/2011	DL	Bugojno	
+16570	P-8	3	7	10/1/2018	1	2018/2019	2	DA	11/7/2018	M	13	Tehnička	Banovići	2008/09	DL	Mostar	
+16571	P-8	3	priznato	12/11/2017	1	2018/2019	2	DA	11/7/2018	M	10	Katolički školski centar	Zenica	2007/08	DL	Mostar	
+16572	P-8	3	9	10/1/2018	1	2018/2019	2	DA	11/7/2018	M	1	Gimnazija	Bihać	2010/2011	DL	Sarajevo - Centar	
+16480	P-8	4	6	1/27/2020	1	2019/2020	1	NE	7/20/2018	M	35	Ostalo	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo - Centar	
+16475	P-8	4	5		1	2019/2020	1	NE	7/21/2018	M	13	Tehnička	Zavidovići	2015/2016	DL	Sarajevo	
+16441	P-8	4	5		1	2021/2022	1	NE	8/24/2018	Ž	4	Medicinska	Sarajevo - Centar	2014/15	Vanredan	Sarajevo - Novi grad	
+16522	P-8	4	5		1	2021/2022	1	NE	10/3/2018	Ž	4	Medicinska	Mostar	2017/2018	Vanredan	Mostar	
+16372	P-8	4	5		1	2023/2024	1	NE	7/19/2018	M	13	Tehnička	Sarajevo - Centar	2016/17	Vanredan	Sarajevo - Centar	
+16509	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Bugojno	2017/18	Redovan samofinansirajući	Jajce	
+16502	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Breza	
+16503	P-12	3	priznato	1/14/2019	1	2018/2019	2	DA	7/21/2018	M	1	Gimnazija	Banja Luka	1999/2000	DL	Sarajevo - Novi grad	
+16504	P-12	3	5		1	2018/2019	2	NE	7/21/2018	M	4	Medicinska	Zenica	2008/2009	DL	Zenica	
+16506	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	1	Gimnazija	Travnik	2016/2017	Vanredan	Jajce	
+16505	P-12	3	5		1	2018/2019	2	NE	7/21/2018	M	6	Ekonomska	Travnik	2017/18	DL	Jajce	
+16507	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16508	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	2	Elektrotehnička	Sarajevo-Stari grad	2016/17	Redovan samofinansirajući	Sarajevo-Stari grad	
+16574	P-12	3	8	10/1/2019	1	2020/2021	2	DA	11/7/2018	M	2	Elektrotehnička	Jablanica	2013/2014	DL	Mostar	
+16575	P-12	3	5		1	2018/2019	2	NE	11/7/2018	M	1	Gimnazija	Gračanica	2014/15	DL	Doboj	
+16577	P-12	3	7	6/17/2019	1	2018/2019	2	NE	11/8/2018	M	1	Gimnazija	Pale	2014/2015	DL	Sokolac	
+16578	P-12	3	9	6/17/2019	1	2018/2019	2	NE	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2012/2013	DL	Sarajevo - Centar	
+16585	P-12	3	7	6/25/2020	1	2018/2019	2	NE	11/14/2018	M	18	Medresa	Zvornik	2008/2009	DL	Zvornik	
+16588	P-12	3	5		1	2018/2019	2	NE	11/14/2018	M	18	Medresa	Gračanica	2014/2015	DL	Gračanica	
+16589	P-12	3	7	6/17/2019	1	2018/2019	2	NE	11/16/2018	M	2	Elektrotehnička	Sarajevo - Centar	2011/2012	DL	Sarajevo - Novi grad	
+17590	P-12	3	6	6/17/2019	1	2018/2019	2	NE	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2004/05	DL	Sarajevo-Stari grad	
+16534	P-12	3	5		1	2018/2019	2	NE	9/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16533	P-12	3	6	9/3/2019	1	2018/2019	2	NE	10/4/2018	M	18	Medresa	Tuzla	2017/2018	DL	Gradačac	
+16535	P-12	3	7	6/17/2019	1	2018/2019	2	NE	9/24/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Kakanj	9/6/2022
+16536	P-12	3	8	6/17/2019	1	2018/2019	2	NE	9/26/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16537	P-12	3	5		1	2018/2019	2	NE	9/17/2018	M	2	Elektrotehnička	Tuzla	2011/2012	DL	Tuzla	
+16510	P-12	3	9	6/17/2019	1	2018/2019	2	NE	9/24/2018	Ž	1	Gimnazija	Kakanj	2017/2018	Redovan samofinansirajući	Kakanj	
+16516	P-12	3	8	6/17/2019	1	2018/2019	2	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Ilijaš	
+16511	P-12	3	7	9/3/2019	1	2018/2019	2	NE	9/24/2018	M	2	Elektrotehnička	Bugojno	2013/14	DL	Bugojno	
+16517	P-12	3	6	7/1/2019	1	2018/2019	2	NE	9/25/2018	Ž	1	Gimnazija	Konjic	2017/2018	DL	Konjic	
+16518	P-12	3	5		1	2018/2019	2	NE	9/24/2018	Ž	1	Gimnazija	Zenica	2015/2016	DL	Zavidovići	
+16519	P-12	3	7	6/17/2019	1	2018/2019	2	NE	9/25/2018	Ž	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Sarajevo - Novi grad	7/19/2022
+16521	P-12	3	5		1	2018/2019	2	NE	9/25/2018	M	2	Elektrotehnička	Zavidovići	2012/2013	DL	Zavidovići	
+16520	P-12	3	5		1	2018/2019	2	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2013/2014	Vanredan	Sarajevo - Novi grad	
+16522	P-12	3	6	9/14/2020	1	2018/2019	2	NE	10/3/2018	Ž	4	Medicinska	Mostar	2017/2018	Vanredan	Mostar	
+16523	P-12	3	5		1	2018/2019	2	NE	9/24/2018	M	6	Ekonomska	Ljubuški	2017/2018	Vanredan	Ljubuški	
+16524	P-12	3	5		1	2018/2019	2	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16525	P-12	3	7	9/3/2019	1	2018/2019	2	NE	9/25/2018	M	1	Gimnazija	Banja Luka	2009/2010	DL	Ilidža	
+16527	P-12	3	7	6/17/2019	1	2018/2019	2	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Ilidža	
+16528	P-12	3	6	6/17/2019	1	2018/2019	2	NE	9/25/2018	M	8	Saobraćajna	Sarajevo - Centar	2014/2015	DL	Ilidža	
+16529	P-12	3	7	6/17/2019	1	2018/2019	2	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2016/2017	DL	Ilidža	2/4/2023
+16531	P-12	3	7	6/17/2019	1	2018/2019	2	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16530	P-12	3	5		1	2018/2019	2	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2009/2010	DL	Sarajevo - Centar	
+16532	P-12	3	5		1	2018/2019	2	NE	9/25/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16320	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/17/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16321	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/17/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Ilidža	
+16322	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/17/2018	M	3	Mašinska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16324	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16323	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	2/17/2022
+16325	P-12	3	8	7/1/2019	1	2018/2019	2	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16326	P-12	3	10	6/17/2019	1	2018/2019	2	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16328	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16327	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	5/11/2023
+16329	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	9/10/2022
+16331	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	4	Medicinska	Zenica	2017/2018	DL	Zenica	
+16330	P-12	3	5		1	2018/2019	2	NE	7/17/2018	M	23	Mješovita srednja škola	Travnik	2013/2014	DL	Novi Travnik	
+16332	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	6/30/2022
+16333	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Cazin	2017/2018	Redovan samofinansirajući	Cazin	6/30/2022
+16335	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/18/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16334	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Jablanica	
+16336	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/18/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	2/17/2022
+16337	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16338	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	6	Ekonomska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16339	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/18/2018	Ž	2	Elektrotehnička	Visoko	2017/2018	Redovan samofinansirajući	Visoko	
+16340	P-12	3	5		1	2018/2019	2	NE	7/18/2018	Ž	6	Ekonomska	Sarajevo - Centar	2017/18	DL	Ilidža	
+16342	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	Vanredan	Ilidža	
+16341	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	7/13/2023
+16343	P-12	3	10	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	18	Medresa	Gradačac	2017/18	DL	Gradačac	
+16344	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Sjenica	2017/2018	DL	Ilidža	
+16345	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/18/2018	Ž	13	Tehnička	Bugojno	2017/2018	Redovan samofinansirajući	Donji Vakuf	
+16348	P-12	3	7	7/1/2019	1	2018/2019	2	NE	7/18/2018	M	13	Tehnička	Travnik	2017/2018	DL	Gornji Vakuf - Uskoplje	
+16349	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	13	Tehnička	Bugojno	2017/2018	DL	Bugojno	
+16350	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	18	Medresa	Tuzla	2017/18	DL	Tuzla	
+16351	P-12	3	5		1	2018/2019	2	NE	7/18/2018	Ž	4	Medicinska	Mostar	2017/2018	DL	Mostar	
+16352	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16353	P-12	3	7	9/17/2019	1	2018/2019	2	NE	7/18/2018	Ž	1	Gimnazija	Konjic	2017/2018	DL	Jablanica	
+16354	P-12	3	8	7/1/2019	1	2018/2019	2	NE	7/18/2018	M	18	Medresa	Tuzla	2017/2018	DL	Živinice	
+16355	P-12	3	6	9/14/2020	1	2018/2019	2	NE	7/19/2018	Ž	1	Gimnazija	Travnik	2017/18	DL	Donji Vakuf	
+16356	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Goražde	2011/2012	Redovan samofinansirajući	Goražde	
+16358	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	Ž	18	Medresa	Zenica	2017/2018	DL	Tuzla	
+16357	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	13	Tehnička	Goražde	2017/2018	DL	Goražde	
+16359	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2017/18	Redovan samofinansirajući	Sanski Most	
+16360	P-12	3	7	7/1/2019	1	2018/2019	2	NE	7/18/2018	M	18	Medresa	Tuzla	2017/2018	DL	Tuzla	
+16361	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Bugojno	2017/2018	DL	Bugojno	
+16362	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Visoko	2017/2018	DL	Visoko	2/17/2022
+16363	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Ilidža	2017/18	DL	Ilidža	
+16364	P-12	3	10	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Visoko	6/30/2022
+16365	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	Ž	6	Ekonomska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16366	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	3	Mašinska	Goražde	2017/18	Vanredan	Goražde	
+16367	P-12	3	5		1	2018/2019	2	NE	7/18/2018	Ž	1	Gimnazija	Zenica	2017/2018	DL	Zavidovići	
+16368	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Travnik	2017/2018	DL	Travnik	9/21/2023
+16369	P-12	3	8	9/3/2019	1	2018/2019	2	NE	9/4/2018	M	25	Turističko ugostiteljska	Pale	2017/18	DL	Pale	
+16370	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	2	Elektrotehnička	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16371	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/18/2018	Ž	1	Gimnazija	Zenica	2017/2018	Redovan samofinansirajući	Zavidovići	
+16372	P-12	3	6	6/23/2022	1	2018/2019	2	NE	7/19/2018	M	13	Tehnička	Sarajevo - Centar	2016/17	Vanredan	Sarajevo - Centar	
+16374	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16375	P-12	3	8	6/17/2019	1	2018/2019	2	NE	9/4/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	
+16376	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Vareš	2017/2018	DL	Vareš	
+16377	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Zvornik	2017/2018	DL	Vareš	
+16378	P-12	3	5		1	2018/2019	2	NE	7/18/2018	M	1	Gimnazija	Vareš	2017/2018	DL	Vareš	
+16379	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Visoko	
+16380	P-12	3	5		1	2018/2019	2	NE	9/18/2018	M	6	Ekonomska	Sarajevo - Centar	2017/2018	DL	Vareš	
+16381	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	4	Medicinska	Gračanica	2017/18	DL	Gračanica	
+16382	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	
+16383	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/19/2018	Ž	4	Medicinska	Konjic	2017/2018	DL	Mostar	
+16384	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	2	Elektrotehnička	Tuzla	2017/2018	Redovan samofinansirajući	Tuzla	
+16385	P-12	3	8	6/17/2019	1	2018/2019	2	NE	9/5/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	9/30/2021
+16386	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16387	P-12	3	6	7/1/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16388	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	2	Elektrotehnička	Zenica	2017/18	Redovan samofinansirajući	Zavidovići	
+16390	P-12	3	8	7/1/2019	1	2018/2019	2	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16389	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Centar	
+16391	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	2	Elektrotehnička	Bugojno	2017/18	DL	Bugojno	
+16392	P-12	3	10	6/17/2019	1	2018/2019	2	NE	9/5/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	9/6/2022
+16393	P-12	3	6	7/1/2019	1	2018/2019	2	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16395	P-12	3	5		1	2018/2019	2	NE	7/19/2018	M	4	Medicinska	Travnik	2017/2018	DL	Jajce	
+16394	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/19/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	9/6/2022
+16396	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	
+16398	P-12	3	5		1	2018/2019	2	NE	7/19/2018	Ž	18	Medresa	Zenica	2017/18	DL	Zenica	
+16399	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	4	Medicinska	Vitez	2017/2018	DL	Vitez	
+16400	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	Ž	6	Ekonomska	Sarajevo - Novi grad	2017/18	DL	Sarajevo	
+16401	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2015/16	DL	Mostar	
+16402	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Travnik	2017/18	Redovan samofinansirajući	Gornji Vakuf - Uskoplje	9/6/2022
+16403	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	18	Medresa	Tuzla	2017/2018	Redovan samofinansirajući	Kalesija	
+16404	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16405	P-12	3	6	9/14/2020	1	2018/2019	2	NE	7/19/2018	M	18	Medresa	Tuzla	2017/2018	Vanredan	Živinice	
+16406	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2016/2017	Vanredan	Sanski Most	
+16407	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2017/18	Vanredan	Sanski Most	
+16408	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/19/2018	Ž	1	Gimnazija	Sanski Most	2016/2017	DL	Sanski Most	
+16410	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/19/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16409	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	3	Mašinska	Tuzla	2014/15	DL	Lukavac	
+16412	P-12	3	5		1	2018/2019	2	NE	7/20/2018	M	35	Ostalo	Zenica	2013/2014	DL	Travnik	
+16413	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/18/2018	Ž	1	Gimnazija	Gornji Vakuf	2014/15	DL	Gornji Vakuf - Uskoplje	
+16414	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	2	Elektrotehnička	Goražde	2014/15	DL	Sarajevo	
+16415	P-12	3	6	7/1/2019	1	2018/2019	2	NE	9/5/2018	M	1	Gimnazija	Bugojno	2017/2018	DL	Bugojno	
+16416	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	2	Elektrotehnička	Sarajevo-Novo Sarajevo	2017/18	Vanredan	Sarajevo	
+16417	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	1/27/2022
+16418	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Sarajevo - Novi grad	
+16419	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	Ž	1	Gimnazija	Zenica	2017/2018	DL	Zavidovići	11/14/2022
+16420	P-12	3	9	6/17/2019	1	2018/2019	2	NE	9/5/2018	Ž	2	Elektrotehnička	Tuzla	2017/18	DL	Tuzla	
+16421	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/20/2018	Ž	1	Gimnazija	Goražde	2017/2018	DL	Goražde	
+16422	P-12	3	5		1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Visoko	2017/2018	DL	Visoko	
+16423	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/19/2018	Ž	1	Gimnazija	Mostar	2017/18	Redovan samofinansirajući	Mostar	
+16424	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Visoko	
+16425	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/19/2018	Ž	1	Gimnazija	Goražde	2017/18	DL	Goražde	11/22/2021
+16428	P-12	3	6	7/1/2019	1	2018/2019	2	NE	7/20/2018	Ž	2	Elektrotehnička	Travnik	2017/2018	Vanredan	Donji Vakuf	
+16429	P-12	3	5		1	2018/2019	2	NE	9/7/2018	M	13	Tehnička	Zenica	2017/18	DL	Zenica	
+16430	P-12	3	5		1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16432	P-12	3	6	6/17/2019	1	2018/2019	2	NE	8/24/2018	Ž	2	Elektrotehnička	Mostar	2016/17	DL	Mostar	
+16431	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	18	Medresa	Zenica	2017/2018	DL	Zenica	
+16433	P-12	3	8	6/17/2019	1	2018/2019	2	NE	8/24/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Sarajevo-Stari grad	
+16434	P-12	3	5		1	2018/2019	2	NE	7/20/2018	M	2	Elektrotehnička	Tuzla	2000/2001	DL	Tuzla	
+16435	P-12	3	5		1	2018/2019	2	NE	7/20/2018	M	2	Elektrotehnička	Mostar	2014/15	DL	Mostar	
+16437	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	25	Turističko ugostiteljska	Mostar	2017/2018	DL	Mostar	
+16436	P-12	3	6	7/1/2019	1	2018/2019	2	NE	7/20/2018	M	18	Medresa	Jajce	2017/2018	DL	Jajce	
+16439	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Velika Kladuša	2017/2018	Redovan samofinansirajući	Sanski Most	
+16438	P-12	3	7	7/1/2019	1	2018/2019	2	NE	8/24/2018	M	10	Katolički školski centar	Split	2013/14	DL	Sarajevo-Stari grad	
+16440	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16441	P-12	3	7	6/17/2019	1	2018/2019	2	NE	8/24/2018	Ž	4	Medicinska	Sarajevo - Centar	2014/15	Vanredan	Sarajevo - Novi grad	
+16442	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	23	Mješovita srednja škola	Bihać	2017/2018	DL	Bosanska Krupa	
+16443	P-12	3	7	6/17/2019	1	2018/2019	2	NE	8/24/2018	M	1	Gimnazija	Gradačac	2011/12	DL	Gračanica	
+16444	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Centar	
+16446	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	9/6/2022
+16445	P-12	3	5		1	2018/2019	2	NE	8/24/2018	M	1	Gimnazija	Zenica	2015/2016	DL	Zenica	
+16447	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	2	Elektrotehnička	Visoko	2017/2018	DL	Sarajevo - Novi grad	
+16449	P-12	3	6	7/1/2019	1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16448	P-12	3	7	6/17/2019	1	2018/2019	2	NE	8/24/2018	M	13	Tehnička	Brčko	2017/18	Redovan samofinansirajući	Brčko	
+16450	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	2	Elektrotehnička	Goražde	2017/2018	DL	Goražde	
+16451	P-12	3	8	6/17/2019	1	2018/2019	2	NE	8/23/2018	M	1	Gimnazija	Zagreb	2017/18	DL	Goražde	
+16452	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Vogošća	
+16453	P-12	3	6	7/1/2019	1	2018/2019	2	NE	8/23/2018	M	13	Tehnička	Goražde	2015/2016	Vanredan	Goražde	
+16454	P-12	3	5		1	2018/2019	2	NE	7/20/2018	M	6	Ekonomska	Goražde	2017/2018	DL	Goražde	
+16455	P-12	3	7	6/17/2019	1	2018/2019	2	NE	8/23/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2011/12	DL	Sarajevo-Novo Sarajevo	
+16457	P-12	3	6	9/17/2019	1	2018/2019	2	NE	8/23/2018	Ž	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Sarajevo-Novo Sarajevo	
+16458	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	2	Elektrotehnička	Tuzla	2017/2018	DL	Tuzla	
+16459	P-12	3	6	7/1/2019	1	2018/2019	2	NE	8/23/2018	M	1	Gimnazija	Zenica	2017/18	DL	Zenica	2/18/2022
+16460	P-12	3	6	9/3/2019	1	2018/2019	2	NE	7/20/2018	M	23	Mješovita srednja škola	Travnik	2017/2018	Redovan samofinansirajući	Travnik	
+16462	P-12	3	6	6/17/2019	1	2018/2019	2	NE	8/23/2018	M	6	Ekonomska	Ljubovija	2001/2002	DL	Sarajevo	
+16461	P-12	3	7	6/17/2019	1	2018/2019	2	NE	9/8/2018	M	23	Mješovita srednja škola	Travnik	2017/2018	DL	Travnik	
+16463	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/20/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Čapljina	
+16464	P-12	3	8	6/17/2019	1	2018/2019	2	NE	8/23/2018	M	1	Gimnazija	Sarajevo-Stari grad	2017/18	DL	Sarajevo-Stari grad	
+16466	P-12	3	7	6/17/2019	1	2018/2019	2	NE	9/8/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16465	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Mostar	2017/2018	Vanredan	Jablanica	
+16467	P-12	3	9	6/17/2019	1	2018/2019	2	NE	8/23/2018	M	2	Elektrotehnička	Bihać	2017/18	DL	Bihać	
+16468	P-12	3	8	6/17/2019	1	2018/2019	2	NE	8/23/2018	M	1	Gimnazija	Bihać	2017/18	Vanredan	Bihać	
+16469	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/20/2018	Ž	1	Gimnazija	Bihać	2017/2018	DL	Bosanska Krupa	
+16470	P-12	3	5		1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Vogošća	
+16471	P-12	3	7	6/17/2019	1	2018/2019	2	NE	8/23/2018	M	18	Medresa	Bihać	2017/18	Redovan samofinansirajući	Bihać	
+16473	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2015/2016	DL	Sarajevo-Novo Sarajevo	
+16472	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo-Novo Sarajevo	
+16474	P-12	3	8	6/17/2019	1	2018/2019	2	NE	8/23/2018	Ž	1	Gimnazija	Tuzla	2017/2018	Vanredan	Lukavac	
+16476	P-12	3	6	9/3/2019	1	2018/2019	2	NE	7/20/2018	Ž	13	Tehnička	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo - Novi grad	
+16475	P-12	3	5		1	2018/2019	2	NE	7/21/2018	M	13	Tehnička	Zavidovići	2015/2016	DL	Sarajevo	
+16478	P-12	3	6	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	1	Gimnazija	Konjic	2017/2018	DL	Konjic	
+16479	P-12	3	5		1	2018/2019	2	NE	9/8/2018	M	25	Turističko ugostiteljska	Mostar	2017/18	DL	Jablanica	
+16481	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	13	Tehnička	Travnik	2017/2018	DL	Bugojno	
+16480	P-12	3	6	7/1/2021	1	2018/2019	2	NE	7/20/2018	M	35	Ostalo	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo - Centar	
+16482	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/21/2018	Ž	1	Gimnazija	Mostar	2017/18	DL	Mostar	
+16485	P-12	3	5		1	2018/2019	2	NE	7/21/2018	Ž	1	Gimnazija	Tuzla	2016/17	DL	Tuzla	
+16483	P-12	3	6	10/3/2019	1	2018/2019	2	NE	7/20/2018	M	13	Tehnička	Travnik	2017/2018	DL	Fojnica	
+16486	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/20/2018	Ž	35	Ostalo	Sarajevo - Centar	2017/2018	Redovan samofinansirajući	Ilijaš	9/22/2022
+16487	P-12	3	5		1	2018/2019	2	NE	9/8/2018	M	4	Medicinska	Mostar	2015/2016	DL	Mostar	
+16488	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	35	Ostalo	Vareš	2017/2018	DL	Ilijaš	
+16489	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2014/2015	DL	Sarajevo - Novi grad	
+16490	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	Vanredan	Sarajevo - Novi grad	
+16494	P-12	3	6	6/25/2020	1	2018/2019	2	NE	7/21/2018	Ž	1	Gimnazija	Goražde	2017/2018	DL	Goražde	
+16491	P-12	3	7	7/1/2019	1	2018/2019	2	NE	7/21/2018	Ž	1	Gimnazija	Travnik	2017/2018	DL	Travnik	
+16495	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	20	Grafička	Rogatica	2003/04	DL	Sarajevo-Novo Sarajevo	
+16496	P-12	3	8	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo-Stari grad	
+16497	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	1	Gimnazija	Tešanj	2017/2018	DL	Doboj	
+16498	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	1	Gimnazija	Vogošća	2017/18	DL	Vogošća	
+16499	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/21/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16500	P-12	3	7	6/17/2019	1	2018/2019	2	NE	7/21/2018	M	20	Grafička	Sarajevo - Centar	2017/18	DL	Sarajevo - Novi grad	
+16501	P-12	3	9	6/17/2019	1	2018/2019	2	NE	7/21/2018	Ž	1	Gimnazija	Travnik	2017/2018	Redovan samofinansirajući	Jajce	
+16499	P-24	4	7	7/17/2020	1	2019/2020	4	NE	7/21/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+17591	P-140	7	7	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Tuzla	2007/08	DL	Srebrenik	
+17592	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2013/14	DL	Hadžići	4/3/2021
+17593	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	2	Elektrotehnička	Bihać	2011/12	DL	Bihać	
+17594	P-140	7	10	10/1/2018	1	2018/2019	1	DA	11/20/2018	M	2	Elektrotehnička	Mostar	2008/2009	DL	Sarajevo-Novo Sarajevo	
+17595	P-140	7	priznato	12/11/2017	1	2018/2019	1	DA	11/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2006/2007	DL	Vogošća	
+17596	P-140	7	10	10/1/2018	1	2018/2019	1	DA	11/20/2018	M			Tuzla		DL	Sarajevo-Novo Sarajevo	6/21/2019
+17597	P-140	7	6	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	1	Gimnazija	Bihać	2003/2004	DL	Mostar	
+17598	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	6	Ekonomska	Bugojno	2007/08	DL	Vogošća	2/4/2021
+17599	P-140	7	6	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	23	Mješovita srednja škola	Fojnica	1994/95	DL	Ilidža	
+17600	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	1	Gimnazija	Jajce	2008/2009	DL	Bugojno	
+17589	P-140	7	priznato	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2008/09	DL	Sarajevo-Novo Sarajevo	
+16591	P-140	7	9	10/1/2018	1	2018/2019	1	DA	11/16/2018	M	1	Gimnazija	Bihać	2011/2012	DL	Bosanska Krupa	
+16586	P-140	7	7	10/1/2018	1	2018/2019	1	DA	11/14/2018	M	2	Elektrotehnička	Sarajevo - Centar	2000/2001	DL	Sarajevo-Novo Sarajevo	
+16587	P-140	7	6	10/1/2018	1	2018/2019	1	DA	11/14/2018	M	23	Mješovita srednja škola	Sarajevo - Centar	1999/2000	DL	Sarajevo - Centar	
+16581	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2008/09	DL	Mostar	
+16580	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2012/13	DL	Mostar	
+16582	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	3	Mašinska	Doboj	2002/03	DL	Sarajevo-Novo Sarajevo	
+16583	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	13	Tehnička	Bugojno	2012/13	DL	Gornji Vakuf - Uskoplje	
+16579	P-140	7	7	10/1/2018	1	2018/2019	1	DA	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2010/2011	DL	Sarajevo - Novi grad	9/6/2021
+16584	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	13	Tehnička	Zenica	2010/11	DL	Zenica	
+16576	P-140	7	priznato	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Mostar	2006/2007	DL	Mostar	
+16573	P-140	7	6	10/1/2018	1	2018/2019	1	DA	11/7/2018	Ž	1	Gimnazija	Mostar	2010/2011	DL	Bugojno	
+16570	P-140	7	8	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	13	Tehnička	Banovići	2008/09	DL	Mostar	
+16571	P-140	7	priznato	12/11/2017	1	2018/2019	1	DA	11/7/2018	M	10	Katolički školski centar	Zenica	2007/08	DL	Mostar	
+16572	P-140	7	6	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Bihać	2010/2011	DL	Sarajevo - Centar	
+16572	P-141	7	7	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Bihać	2010/2011	DL	Sarajevo - Centar	
+16571	P-141	7	priznato	12/11/2017	1	2018/2019	1	DA	11/7/2018	M	10	Katolički školski centar	Zenica	2007/08	DL	Mostar	
+16570	P-141	7	8	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	13	Tehnička	Banovići	2008/09	DL	Mostar	
+16573	P-141	7	8	10/1/2018	1	2018/2019	1	DA	11/7/2018	Ž	1	Gimnazija	Mostar	2010/2011	DL	Bugojno	
+16576	P-141	7	8	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Mostar	2006/2007	DL	Mostar	
+16584	P-141	7	priznato	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	13	Tehnička	Zenica	2010/11	DL	Zenica	
+16579	P-141	7	6	10/1/2018	1	2018/2019	1	DA	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2010/2011	DL	Sarajevo - Novi grad	9/6/2021
+16583	P-141	7	9	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	13	Tehnička	Bugojno	2012/13	DL	Gornji Vakuf - Uskoplje	
+16582	P-141	7	6	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	3	Mašinska	Doboj	2002/03	DL	Sarajevo-Novo Sarajevo	
+16580	P-141	7	8	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2012/13	DL	Mostar	
+16581	P-141	7	8	10/1/2018	1	2018/2019	1	DA	11/9/2018	M	2	Elektrotehnička	Mostar	2008/09	DL	Mostar	
+16587	P-141	7	7	10/1/2018	1	2018/2019	1	DA	11/14/2018	M	23	Mješovita srednja škola	Sarajevo - Centar	1999/2000	DL	Sarajevo - Centar	
+16586	P-141	7	6	10/1/2018	1	2018/2019	1	DA	11/14/2018	M	2	Elektrotehnička	Sarajevo - Centar	2000/2001	DL	Sarajevo-Novo Sarajevo	
+16591	P-141	7	priznato	10/1/2018	1	2018/2019	1	DA	11/16/2018	M	1	Gimnazija	Bihać	2011/2012	DL	Bosanska Krupa	
+17589	P-141	7	priznato	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2008/09	DL	Sarajevo-Novo Sarajevo	
+17600	P-141	7	6	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	1	Gimnazija	Jajce	2008/2009	DL	Bugojno	
+17599	P-141	7	6	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	23	Mješovita srednja škola	Fojnica	1994/95	DL	Ilidža	
+17598	P-141	7	6	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	6	Ekonomska	Bugojno	2007/08	DL	Vogošća	2/4/2021
+17597	P-141	7	6	10/1/2018	1	2018/2019	1	DA	11/23/2018	M	1	Gimnazija	Bihać	2003/2004	DL	Mostar	
+17596	P-141	7	10	10/1/2018	1	2018/2019	1	DA	11/20/2018	M			Tuzla		DL	Sarajevo-Novo Sarajevo	6/21/2019
+17595	P-141	7	priznato	12/11/2017	1	2018/2019	1	DA	11/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2006/2007	DL	Vogošća	
+17594	P-141	7	10	10/1/2018	1	2018/2019	1	DA	11/20/2018	M	2	Elektrotehnička	Mostar	2008/2009	DL	Sarajevo-Novo Sarajevo	
+17593	P-141	7	8	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	2	Elektrotehnička	Bihać	2011/12	DL	Bihać	
+17592	P-141	7	7	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2013/14	DL	Hadžići	4/3/2021
+17591	P-141	7	6	10/1/2018	1	2018/2019	1	DA	11/19/2018	M	1	Gimnazija	Tuzla	2007/08	DL	Srebrenik	
+17590	P-219	7	5		1	2018/2019	1	NE	11/19/2018	M	1	Gimnazija	Sarajevo - Centar	2004/05	DL	Sarajevo-Stari grad	
+16589	P-219	7	5		1	2018/2019	1	NE	11/16/2018	M	2	Elektrotehnička	Sarajevo - Centar	2011/2012	DL	Sarajevo - Novi grad	
+16588	P-219	7	5		1	2018/2019	1	NE	11/14/2018	M	18	Medresa	Gračanica	2014/2015	DL	Gračanica	
+16585	P-219	7	5		1	2018/2019	1	NE	11/14/2018	M	18	Medresa	Zvornik	2008/2009	DL	Zvornik	
+16575	P-219	7	6	10/1/2018	1	2018/2019	1	DA	11/7/2018	M	1	Gimnazija	Gračanica	2014/15	DL	Doboj	
+16578	P-219	7	5		1	2018/2019	1	NE	11/8/2018	M	1	Gimnazija	Sarajevo - Centar	2012/2013	DL	Sarajevo - Centar	
+16577	P-219	7	5		1	2018/2019	1	NE	11/8/2018	M	1	Gimnazija	Pale	2014/2015	DL	Sokolac	
+16509	P-219	7	8	1/30/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Bugojno	2017/18	Redovan samofinansirajući	Jajce	
+16508	P-219	7	8	1/30/2019	1	2018/2019	1	NE	7/21/2018	M	2	Elektrotehnička	Sarajevo-Stari grad	2016/17	Redovan samofinansirajući	Sarajevo-Stari grad	
+16505	P-219	7	5		1	2018/2019	1	NE	7/21/2018	M	6	Ekonomska	Travnik	2017/18	DL	Jajce	
+16506	P-219	7	5		1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Travnik	2016/2017	Vanredan	Jajce	
+16507	P-219	7	5		1	2018/2019	1	NE	7/21/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16504	P-219	7	5		1	2018/2019	1	NE	7/21/2018	M	4	Medicinska	Zenica	2008/2009	DL	Zenica	
+16502	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Breza	
+16503	P-219	7	priznato	1/14/2019	1	2018/2019	1	DA	7/21/2018	M	1	Gimnazija	Banja Luka	1999/2000	DL	Sarajevo - Novi grad	
+16531	P-219	7	6	10/3/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16532	P-219	7	5		1	2018/2019	1	NE	9/25/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16530	P-219	7	5		1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2009/2010	DL	Sarajevo - Centar	
+16528	P-219	7	7	1/26/2024	1	2018/2019	1	NE	9/25/2018	M	8	Saobraćajna	Sarajevo - Centar	2014/2015	DL	Ilidža	
+16529	P-219	7	6	2/13/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2016/2017	DL	Ilidža	2/4/2023
+16525	P-219	7	5		1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Banja Luka	2009/2010	DL	Ilidža	
+16527	P-219	7	6	8/30/2019	1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Ilidža	
+16524	P-219	7	5		1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16523	P-219	7	5		1	2018/2019	1	NE	9/24/2018	M	6	Ekonomska	Ljubuški	2017/2018	Vanredan	Ljubuški	
+16521	P-219	7	5		1	2018/2019	1	NE	9/25/2018	M	2	Elektrotehnička	Zavidovići	2012/2013	DL	Zavidovići	
+16522	P-219	7	5		1	2018/2019	1	NE	10/3/2018	Ž	4	Medicinska	Mostar	2017/2018	Vanredan	Mostar	
+16519	P-219	7	10	1/30/2019	1	2018/2019	1	NE	9/25/2018	Ž	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Sarajevo - Novi grad	7/19/2022
+16520	P-219	7	5		1	2018/2019	1	NE	9/26/2018	M	2	Elektrotehnička	Sarajevo - Centar	2013/2014	Vanredan	Sarajevo - Novi grad	
+16518	P-219	7	5		1	2018/2019	1	NE	9/24/2018	Ž	1	Gimnazija	Zenica	2015/2016	DL	Zavidovići	
+16516	P-219	7	6	8/27/2020	1	2018/2019	1	NE	9/25/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Ilijaš	
+16517	P-219	7	7	2/13/2019	1	2018/2019	1	NE	9/25/2018	Ž	1	Gimnazija	Konjic	2017/2018	DL	Konjic	
+16510	P-219	7	8	1/30/2019	1	2018/2019	1	NE	9/24/2018	Ž	1	Gimnazija	Kakanj	2017/2018	Redovan samofinansirajući	Kakanj	
+16511	P-219	7	9	1/30/2019	1	2018/2019	1	NE	9/24/2018	M	2	Elektrotehnička	Bugojno	2013/14	DL	Bugojno	
+16537	P-219	7	priznato	4/17/2019	1	2018/2019	1	DA	9/17/2018	M	2	Elektrotehnička	Tuzla	2011/2012	DL	Tuzla	
+16536	P-219	7	5		1	2018/2019	1	NE	9/26/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16533	P-219	7	6	8/30/2019	1	2018/2019	1	NE	10/4/2018	M	18	Medresa	Tuzla	2017/2018	DL	Gradačac	
+16534	P-219	7	5		1	2018/2019	1	NE	9/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16535	P-219	7	6	1/30/2019	1	2018/2019	1	NE	9/24/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Kakanj	9/6/2022
+16501	P-219	7	8	1/30/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Travnik	2017/2018	Redovan samofinansirajući	Jajce	
+16499	P-219	7	6	1/30/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16500	P-219	7	5		1	2018/2019	1	NE	7/21/2018	M	20	Grafička	Sarajevo - Centar	2017/18	DL	Sarajevo - Novi grad	
+16497	P-219	7	5		1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Tešanj	2017/2018	DL	Doboj	
+16498	P-219	7	7	9/13/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Vogošća	2017/18	DL	Vogošća	
+16496	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/21/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo-Stari grad	
+16494	P-219	7	5		1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Goražde	2017/2018	DL	Goražde	
+16495	P-219	7	5		1	2018/2019	1	NE	7/21/2018	M	20	Grafička	Rogatica	2003/04	DL	Sarajevo-Novo Sarajevo	
+16490	P-219	7	6	9/10/2020	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	Vanredan	Sarajevo - Novi grad	
+16491	P-219	7	6	9/13/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Travnik	2017/2018	DL	Travnik	
+16488	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/20/2018	M	35	Ostalo	Vareš	2017/2018	DL	Ilijaš	
+16489	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2014/2015	DL	Sarajevo - Novi grad	
+16487	P-219	7	5		1	2018/2019	1	NE	9/8/2018	M	4	Medicinska	Mostar	2015/2016	DL	Mostar	
+16483	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/20/2018	M	13	Tehnička	Travnik	2017/2018	DL	Fojnica	
+16485	P-219	7	5		1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Tuzla	2016/17	DL	Tuzla	
+16486	P-219	7	8	1/30/2019	1	2018/2019	1	NE	7/20/2018	Ž	35	Ostalo	Sarajevo - Centar	2017/2018	Redovan samofinansirajući	Ilijaš	9/22/2022
+16481	P-219	7	6	9/13/2019	1	2018/2019	1	NE	7/20/2018	M	13	Tehnička	Travnik	2017/2018	DL	Bugojno	
+16482	P-219	7	6	9/13/2019	1	2018/2019	1	NE	7/21/2018	Ž	1	Gimnazija	Mostar	2017/18	DL	Mostar	
+16480	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	35	Ostalo	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo - Centar	
+16479	P-219	7	5		1	2018/2019	1	NE	9/8/2018	M	25	Turističko ugostiteljska	Mostar	2017/18	DL	Jablanica	
+16475	P-219	7	5		1	2018/2019	1	NE	7/21/2018	M	13	Tehnička	Zavidovići	2015/2016	DL	Sarajevo	
+16476	P-219	7	8	1/30/2019	1	2018/2019	1	NE	7/20/2018	Ž	13	Tehnička	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo - Novi grad	
+16478	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Konjic	2017/2018	DL	Konjic	
+16473	P-219	7	7	8/30/2019	1	2018/2019	1	NE	7/21/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2015/2016	DL	Sarajevo-Novo Sarajevo	
+16474	P-219	7	8	1/30/2019	1	2018/2019	1	NE	8/23/2018	Ž	1	Gimnazija	Tuzla	2017/2018	Vanredan	Lukavac	
+16471	P-219	7	6	1/30/2019	1	2018/2019	1	NE	8/23/2018	M	18	Medresa	Bihać	2017/18	Redovan samofinansirajući	Bihać	
+16472	P-219	7	8	9/13/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	Vanredan	Sarajevo-Novo Sarajevo	
+16470	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Vogošća	
+16468	P-219	7	6	9/13/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Bihać	2017/18	Vanredan	Bihać	
+16469	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Bihać	2017/2018	DL	Bosanska Krupa	
+16466	P-219	7	7	1/30/2019	1	2018/2019	1	NE	9/8/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16467	P-219	7	6	8/30/2021	1	2018/2019	1	NE	8/23/2018	M	2	Elektrotehnička	Bihać	2017/18	DL	Bihać	
+16464	P-219	7	7	8/30/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Sarajevo-Stari grad	2017/18	DL	Sarajevo-Stari grad	
+16465	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Mostar	2017/2018	Vanredan	Jablanica	
+16462	P-219	7	5		1	2018/2019	1	NE	8/23/2018	M	6	Ekonomska	Ljubovija	2001/2002	DL	Sarajevo	
+16463	P-219	7	7	2/13/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Čapljina	
+16460	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/20/2018	M	23	Mješovita srednja škola	Travnik	2017/2018	Redovan samofinansirajući	Travnik	
+16461	P-219	7	5		1	2018/2019	1	NE	9/8/2018	M	23	Mješovita srednja škola	Travnik	2017/2018	DL	Travnik	
+16457	P-219	7	7	2/13/2019	1	2018/2019	1	NE	8/23/2018	Ž	1	Gimnazija	Sarajevo - Centar	2015/2016	DL	Sarajevo-Novo Sarajevo	
+16458	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Tuzla	2017/2018	DL	Tuzla	
+16459	P-219	7	6	8/30/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Zenica	2017/18	DL	Zenica	2/18/2022
+16455	P-219	7	7	2/13/2019	1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2011/12	DL	Sarajevo-Novo Sarajevo	
+16454	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	6	Ekonomska	Goražde	2017/2018	DL	Goražde	
+16451	P-219	7	5		1	2018/2019	1	NE	8/23/2018	M	1	Gimnazija	Zagreb	2017/18	DL	Goražde	
+16452	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Vogošća	
+16453	P-219	7	5		1	2018/2019	1	NE	8/23/2018	M	13	Tehnička	Goražde	2015/2016	Vanredan	Goražde	
+16448	P-219	7	6	8/30/2019	1	2018/2019	1	NE	8/24/2018	M	13	Tehnička	Brčko	2017/18	Redovan samofinansirajući	Brčko	
+16449	P-219	7	7	2/13/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16450	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Goražde	2017/2018	DL	Goražde	
+16446	P-219	7	10	1/30/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	9/6/2022
+16447	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Visoko	2017/2018	DL	Sarajevo - Novi grad	
+16445	P-219	7	5		1	2018/2019	1	NE	8/24/2018	M	1	Gimnazija	Zenica	2015/2016	DL	Zenica	
+16443	P-219	7	6	10/3/2019	1	2018/2019	1	NE	8/24/2018	M	1	Gimnazija	Gradačac	2011/12	DL	Gračanica	
+16444	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Centar	
+16441	P-219	7	5		1	2018/2019	1	NE	8/24/2018	Ž	4	Medicinska	Sarajevo - Centar	2014/15	Vanredan	Sarajevo - Novi grad	
+16442	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/20/2018	M	23	Mješovita srednja škola	Bihać	2017/2018	DL	Bosanska Krupa	
+16439	P-219	7	8	1/30/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Velika Kladuša	2017/2018	Redovan samofinansirajući	Sanski Most	
+16440	P-219	7	8	8/30/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16438	P-219	7	5		1	2018/2019	1	NE	8/24/2018	M	10	Katolički školski centar	Split	2013/14	DL	Sarajevo-Stari grad	
+16437	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	25	Turističko ugostiteljska	Mostar	2017/2018	DL	Mostar	
+16436	P-219	7	6	2/15/2021	1	2018/2019	1	NE	7/20/2018	M	18	Medresa	Jajce	2017/2018	DL	Jajce	
+16435	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Mostar	2014/15	DL	Mostar	
+16433	P-219	7	6	1/30/2019	1	2018/2019	1	NE	8/24/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Sarajevo-Stari grad	
+16434	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	2	Elektrotehnička	Tuzla	2000/2001	DL	Tuzla	
+16432	P-219	7	5		1	2018/2019	1	NE	8/24/2018	Ž	2	Elektrotehnička	Mostar	2016/17	DL	Mostar	
+16431	P-219	7	6	9/2/2022	1	2018/2019	1	NE	7/20/2018	M	18	Medresa	Zenica	2017/2018	DL	Zenica	
+16430	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16428	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/20/2018	Ž	2	Elektrotehnička	Travnik	2017/2018	Vanredan	Donji Vakuf	
+16429	P-219	7	5		1	2018/2019	1	NE	9/7/2018	M	13	Tehnička	Zenica	2017/18	DL	Zenica	
+16424	P-219	7	8	2/13/2019	1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Visoko	
+16425	P-219	7	8	1/30/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Goražde	2017/18	DL	Goražde	11/22/2021
+16423	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Mostar	2017/18	Redovan samofinansirajući	Mostar	
+16421	P-219	7	6	1/23/2020	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Goražde	2017/2018	DL	Goražde	
+16422	P-219	7	5		1	2018/2019	1	NE	7/20/2018	M	1	Gimnazija	Visoko	2017/2018	DL	Visoko	
+16419	P-219	7	9	2/13/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Zenica	2017/2018	DL	Zavidovići	11/14/2022
+16420	P-219	7	8	2/13/2019	1	2018/2019	1	NE	9/5/2018	Ž	2	Elektrotehnička	Tuzla	2017/18	DL	Tuzla	
+16417	P-219	7	10	1/30/2019	1	2018/2019	1	NE	7/20/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	1/27/2022
+16418	P-219	7	6	2/22/2022	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Sarajevo - Novi grad	
+16416	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Sarajevo-Novo Sarajevo	2017/18	Vanredan	Sarajevo	
+16414	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Goražde	2014/15	DL	Sarajevo	
+16415	P-219	7	6	9/13/2019	1	2018/2019	1	NE	9/5/2018	M	1	Gimnazija	Bugojno	2017/2018	DL	Bugojno	
+16413	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Gornji Vakuf	2014/15	DL	Gornji Vakuf - Uskoplje	
+16410	P-219	7	8	1/30/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Novi grad	
+16412	P-219	7	9	2/13/2019	1	2018/2019	1	NE	7/20/2018	M	35	Ostalo	Zenica	2013/2014	DL	Travnik	
+16408	P-219	7	6	1/30/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Sanski Most	2016/2017	DL	Sanski Most	
+16409	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/19/2018	M	3	Mašinska	Tuzla	2014/15	DL	Lukavac	
+16406	P-219	7	5		1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2016/2017	Vanredan	Sanski Most	
+16407	P-219	7	7	2/13/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2017/18	Vanredan	Sanski Most	
+16404	P-219	7	9	1/30/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16405	P-219	7	6	9/10/2020	1	2018/2019	1	NE	7/19/2018	M	18	Medresa	Tuzla	2017/2018	Vanredan	Živinice	
+16402	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Travnik	2017/18	Redovan samofinansirajući	Gornji Vakuf - Uskoplje	9/6/2022
+16403	P-219	7	8	1/30/2019	1	2018/2019	1	NE	7/19/2018	M	18	Medresa	Tuzla	2017/2018	Redovan samofinansirajući	Kalesija	
+16400	P-219	7	7	9/13/2019	1	2018/2019	1	NE	7/19/2018	Ž	6	Ekonomska	Sarajevo - Novi grad	2017/18	DL	Sarajevo	
+16401	P-219	7	6	9/13/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2015/16	DL	Mostar	
+16399	P-219	7	5		1	2018/2019	1	NE	7/19/2018	M	4	Medicinska	Vitez	2017/2018	DL	Vitez	
+16398	P-219	7	5		1	2018/2019	1	NE	7/19/2018	Ž	18	Medresa	Zenica	2017/18	DL	Zenica	
+16394	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	9/6/2022
+16395	P-219	7	5		1	2018/2019	1	NE	7/19/2018	M	4	Medicinska	Travnik	2017/2018	DL	Jajce	
+16396	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	
+16393	P-219	7	5		1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16391	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Bugojno	2017/18	DL	Bugojno	
+16392	P-219	7	8	1/30/2019	1	2018/2019	1	NE	9/5/2018	Ž	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	9/6/2022
+16390	P-219	7	5		1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	
+16388	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Zenica	2017/18	Redovan samofinansirajući	Zavidovići	
+16389	P-219	7	10	2/13/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo - Centar	
+16386	P-219	7	10	2/13/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo-Novo Sarajevo	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16387	P-219	7	6	9/13/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Sarajevo-Novo Sarajevo	
+16384	P-219	7	8	2/13/2019	1	2018/2019	1	NE	7/19/2018	M	2	Elektrotehnička	Tuzla	2017/2018	Redovan samofinansirajući	Tuzla	
+16385	P-219	7	8	1/30/2019	1	2018/2019	1	NE	9/5/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	9/30/2021
+16382	P-219	7	7	7/3/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sarajevo - Centar	2017/18	DL	Vogošća	
+16383	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/19/2018	Ž	4	Medicinska	Konjic	2017/2018	DL	Mostar	
+16381	P-219	7	5		1	2018/2019	1	NE	7/19/2018	M	4	Medicinska	Gračanica	2017/18	DL	Gračanica	
+16378	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Vareš	2017/2018	DL	Vareš	
+16379	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/18/2018	M	2	Elektrotehnička	Sarajevo - Centar	2017/2018	DL	Visoko	
+16380	P-219	7	5		1	2018/2019	1	NE	9/18/2018	M	6	Ekonomska	Sarajevo - Centar	2017/2018	DL	Vareš	
+16377	P-219	7	5		1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Zvornik	2017/2018	DL	Vareš	
+16376	P-219	7	5		1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Vareš	2017/2018	DL	Vareš	
+16374	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16375	P-219	7	8	1/30/2019	1	2018/2019	1	NE	9/4/2018	M	1	Gimnazija	Zenica	2017/18	DL	Kakanj	
+16371	P-219	7	7	2/13/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Zenica	2017/2018	Redovan samofinansirajući	Zavidovići	
+16372	P-219	7	5		1	2018/2019	1	NE	7/19/2018	M	13	Tehnička	Sarajevo - Centar	2016/17	Vanredan	Sarajevo - Centar	
+16369	P-219	7	6	2/13/2019	1	2018/2019	1	NE	9/4/2018	M	25	Turističko ugostiteljska	Pale	2017/18	DL	Pale	
+16370	P-219	7	9	2/13/2019	1	2018/2019	1	NE	7/18/2018	M	2	Elektrotehnička	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16368	P-219	7	8	8/30/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Travnik	2017/2018	DL	Travnik	9/21/2023
+16366	P-219	7	6	9/13/2019	1	2018/2019	1	NE	7/19/2018	M	3	Mašinska	Goražde	2017/18	Vanredan	Goražde	
+16367	P-219	7	5		1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Zenica	2017/2018	DL	Zavidovići	
+16364	P-219	7	10	1/30/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	DL	Visoko	6/30/2022
+16365	P-219	7	10	1/30/2019	1	2018/2019	1	NE	7/18/2018	Ž	6	Ekonomska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16362	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Visoko	2017/2018	DL	Visoko	2/17/2022
+16363	P-219	7	6	9/13/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Ilidža	2017/18	DL	Ilidža	
+16360	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Tuzla	2017/2018	DL	Tuzla	
+16361	P-219	7	5		1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Bugojno	2017/2018	DL	Bugojno	
+16358	P-219	7	6	1/30/2019	1	2018/2019	1	NE	7/18/2018	Ž	18	Medresa	Zenica	2017/2018	DL	Tuzla	
+16359	P-219	7	6	1/30/2019	1	2018/2019	1	NE	7/19/2018	M	1	Gimnazija	Sanski Most	2017/18	Redovan samofinansirajući	Sanski Most	
+16356	P-219	7	5		1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Goražde	2011/2012	Redovan samofinansirajući	Goražde	
+16357	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/18/2018	M	13	Tehnička	Goražde	2017/2018	DL	Goražde	
+16355	P-219	7	5		1	2018/2019	1	NE	7/19/2018	Ž	1	Gimnazija	Travnik	2017/18	DL	Donji Vakuf	
+16353	P-219	7	6	7/8/2020	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Konjic	2017/2018	DL	Jablanica	
+16354	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Tuzla	2017/2018	DL	Živinice	
+16352	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16350	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Tuzla	2017/18	DL	Tuzla	
+16351	P-219	7	5		1	2018/2019	1	NE	7/18/2018	Ž	4	Medicinska	Mostar	2017/2018	DL	Mostar	
+16348	P-219	7	6	9/13/2019	1	2018/2019	1	NE	7/18/2018	M	13	Tehnička	Travnik	2017/2018	DL	Gornji Vakuf - Uskoplje	
+16349	P-219	7	7	8/30/2019	1	2018/2019	1	NE	7/18/2018	M	13	Tehnička	Bugojno	2017/2018	DL	Bugojno	
+16344	P-219	7	6	9/13/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Sjenica	2017/2018	DL	Ilidža	
+16345	P-219	7	6	2/13/2019	1	2018/2019	1	NE	7/18/2018	Ž	13	Tehnička	Bugojno	2017/2018	Redovan samofinansirajući	Donji Vakuf	
+16342	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Sarajevo - Centar	2017/2018	Vanredan	Ilidža	
+16343	P-219	7	9	1/30/2019	1	2018/2019	1	NE	7/18/2018	M	18	Medresa	Gradačac	2017/18	DL	Gradačac	
+16341	P-219	7	10	2/13/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	7/13/2023
+16339	P-219	7	9	1/30/2019	1	2018/2019	1	NE	7/18/2018	Ž	2	Elektrotehnička	Visoko	2017/2018	Redovan samofinansirajući	Visoko	
+16340	P-219	7	5		1	2018/2019	1	NE	7/18/2018	Ž	6	Ekonomska	Sarajevo - Centar	2017/18	DL	Ilidža	
+16337	P-219	7	6	8/30/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Zenica	2017/2018	DL	Zenica	
+16338	P-219	7	7	7/3/2019	1	2018/2019	1	NE	7/18/2018	M	6	Ekonomska	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16335	P-219	7	9	1/30/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16336	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/18/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	2/17/2022
+16333	P-219	7	9	1/30/2019	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Cazin	2017/2018	Redovan samofinansirajući	Cazin	6/30/2022
+16334	P-219	7	6	1/23/2020	1	2018/2019	1	NE	7/18/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Jablanica	
+16330	P-219	7	5		1	2018/2019	1	NE	7/17/2018	M	23	Mješovita srednja škola	Travnik	2013/2014	DL	Novi Travnik	
+16331	P-219	7	8	8/30/2019	1	2018/2019	1	NE	7/18/2018	M	4	Medicinska	Zenica	2017/2018	DL	Zenica	
+16332	P-219	7	6	1/23/2020	1	2018/2019	1	NE	7/18/2018	M	2	Elektrotehnička	Mostar	2017/2018	DL	Mostar	6/30/2022
+16328	P-219	7	7	8/30/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	
+16329	P-219	7	6	1/30/2019	1	2018/2019	1	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	DL	Mostar	9/10/2022
+16326	P-219	7	8	2/13/2019	1	2018/2019	1	NE	7/17/2018	M	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
+16327	P-219	7	8	2/13/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	DL	Mostar	5/11/2023
+16324	P-219	7	7	1/30/2019	1	2018/2019	1	NE	7/17/2018	Ž	1	Gimnazija	Mostar	2017/2018	Redovan samofinansirajući	Mostar	
